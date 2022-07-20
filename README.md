@@ -4,7 +4,7 @@
 >
 > If you say *software, disallow this*. I say "yes".
 
-Despite my desire for my software to be all things to all people, sometimes consequential design decisions are unavoidable.
+Despite my desire for [my software](https://andrew-johnson-4.github.io/lsts-tutorial/) to be all things to all people, sometimes consequential design decisions are unavoidable.
 My software is meant to be a platform that others can leverage to build cool things.
 To this end I have committed to a policy of *configuration over code*.
 Configuration over code means that whenever possible I will make design decisions configurable opt-in choices.
