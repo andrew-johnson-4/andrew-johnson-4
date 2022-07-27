@@ -1,4 +1,4 @@
-# Hi, I'm Andrew Johnson
+# Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
 I am currently working on a [proof assistant that is also a programming language](https://andrew-johnson-4.github.io/lsts-tutorial/index.html).
 
