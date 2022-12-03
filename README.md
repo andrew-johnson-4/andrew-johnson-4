@@ -5,3 +5,5 @@ I am currently working on a [proof assistant that is also a programming language
 I program in Rust. I used to program in Python, C, and OCaml.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karmafeeder/)
+
+Sometimes I read log files as a hobby.
