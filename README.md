@@ -3,3 +3,5 @@
 I am currently working on a [proof assistant that is also a programming language](https://andrew-johnson-4.github.io/lsts-tutorial/index.html).
 
 I program in Rust. I used to program in Python, C, and OCaml.
+
+“Just think, the contract on this thing went to the lowest bidder.”
