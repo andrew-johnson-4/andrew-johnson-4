@@ -10,4 +10,5 @@ I am [documenting the entire process on Medium](https://medium.com/@andrew_johns
 Upcoming Features
 - REPL
 - Nominal Types
+- Type Inference
 - Simple Compiler
