@@ -9,7 +9,7 @@ I am [documenting the entire process on Medium](https://medium.com/@andrew_johns
 
 Upcoming Features
 - Simple Compiler
-- Improved Type System
 - Intrinsic Types and Operators
+- Improved Type System
 - Blame and Error Reporting
 - Improved Compiler
