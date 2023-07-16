@@ -10,9 +10,9 @@ I am [documenting the entire process on Medium](https://medium.com/@andrew_johns
 Upcoming Features
 - Preprocessor
 - Postprocessor
-- Lint after Preprocessing
 - Simple Compiler
 - Intrinsic Types and Operators
+- Lint before Preprocessing
 - Improved Type System
 - Blame and Error Reporting
 - Improved Compiler
