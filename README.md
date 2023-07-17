@@ -16,3 +16,5 @@ Upcoming Features
 - Improved Type System
 - Blame and Error Reporting
 - Improved Compiler
+- Self-Hosting Bootstrap Compiler
+- Self-Hosting Improved Compiler
