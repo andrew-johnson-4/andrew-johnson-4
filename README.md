@@ -17,4 +17,5 @@ Upcoming Features
 - Blame and Error Reporting
 - Improved Compiler
 - Self-Hosting Bootstrap Compiler
+- Self-Hosting Parser Generator (bootstrap parser definition = optimized parser definition)
 - Self-Hosting Improved Compiler
