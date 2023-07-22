@@ -8,7 +8,7 @@ to create a backend targeting LLVM IR directly.
 I am [documenting the entire process on Medium](https://medium.com/@andrew_johnson_4/building-a-compiler-for-a-modern-functional-language-from-scratch-in-rust-part-1-parsing-d3dd1765ce1b).
 
 Upcoming Features
-- [Simple Compiler](https://github.com/andrew-johnson-4/LSTS/issues/220)
+- [Simple Compiler](https://github.com/andrew-johnson-4/LSTS/issues/221)
 - Preprocessor
 - Postprocessor
 - Intrinsic Types and Operators
