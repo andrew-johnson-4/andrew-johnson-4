@@ -19,3 +19,5 @@ Upcoming Features
 - Self-Hosting Bootstrap Compiler
 - Self-Hosting Parser Generator (bootstrap parser definition = optimized parser definition)
 - Self-Hosting Improved Compiler
+
+$$cannot \ determine \ color \quad \frac{f:A \to B \quad f:B \to C \quad f:A \to C}{\bot}$$
