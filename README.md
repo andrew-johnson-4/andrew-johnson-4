@@ -4,6 +4,6 @@
 
 ### Choose One
 
-$$greedy \ infer \quad \frac{f:A \to B \quad f:B \to C \quad f:A \to C}{f:A \to C}$$
+$$greedy \ infer \quad \frac{f:A \to B \quad f:B \to C}{f:A \to C}$$
 
 $$cannot \ determine \ color \quad \frac{f:A \to B \quad f:B \to C \quad f:A \to C}{\bot}$$
