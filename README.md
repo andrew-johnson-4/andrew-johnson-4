@@ -12,4 +12,4 @@ $$cannot \ determine \ color \quad \frac{f:A \to B \quad f:B \to C \quad f:A \to
  Neither             | Inference is dumb                       |
  Greedy              | Inference is maybe too smart            |
  ColorBlind          | Inference is maybe too conservative     |
- Greedy + ColorBlind | Effectively the same as just ColorBlind |
+ Greedy + ColorBlind | Inference fails a lot                   |
