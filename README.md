@@ -2,22 +2,4 @@
 
 “My life depended on 150,000 pieces of equipment – each bought from the lowest bidder.”
 
-Currently I am rewriting LSTS,
-bootstrapped from Lambda Mountain,
-to create a backend targeting LLVM IR directly.
-I am [documenting the entire process on Medium](https://medium.com/@andrew_johnson_4/building-a-compiler-for-a-modern-functional-language-from-scratch-in-rust-part-1-parsing-d3dd1765ce1b).
-
-Upcoming Features
-- [Simple Compiler](https://github.com/andrew-johnson-4/LSTS/issues/221)
-- Preprocessor
-- Postprocessor
-- Intrinsic Types and Operators
-- Lint before Preprocessing
-- Improved Type System
-- Blame and Error Reporting
-- Improved Compiler
-- Self-Hosting Bootstrap Compiler
-- Self-Hosting Parser Generator (bootstrap parser definition = optimized parser definition)
-- Self-Hosting Improved Compiler
-
 $$cannot \ determine \ color \quad \frac{f:A \to B \quad f:B \to C \quad f:A \to C}{\bot}$$
