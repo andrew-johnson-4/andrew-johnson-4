@@ -13,3 +13,11 @@ $$cannot \ determine \ color \quad \frac{f:A \to B \quad f:B \to C \quad f:A \to
  Greedy              | Inference is maybe too smart            |
  ColorBlind          | Inference is maybe too conservative     |
  Greedy + ColorBlind | Inference fails a lot                   |
+
+You can use formal language to ask questions (proofs) or to write commands (programs).
+Heading further in either of those directions leads to
+* The Greedy Rule (maximalist program utility)
+* The Colorblind Rule (maximalist proof utility)
+
+However, interestingly, these two rules can't be meaningfully unified;
+the result of both rules used simultaneously leads immediately to zero information gain (bottom).
