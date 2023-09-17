@@ -21,3 +21,9 @@ Heading further in either of these directions leads to
 
 However, interestingly, these two rules can't be meaningfully unified;
 the result of both rules used simultaneously leads immediately to zero information gain (bottom).
+
+## derivation of Cannot Determine Color
+
+For a term to be ambiguous, at least the domain or range must be ambiguous. If both the domain and range are known, then there is no ambiguity. The problem arises when a triangle is formed by the ambiguous binding. It then becomes impossible to reduce the ambiguity to a single candidate; you always end up with at least two candidates.
+
+
