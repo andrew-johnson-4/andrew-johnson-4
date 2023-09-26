@@ -28,4 +28,4 @@ For a term to be ambiguous, at least the domain or range must be ambiguous. If b
 
 ## why ambiguity may be useful
 
-"ambiguity" is relevant to typing because when combined with plural types it creates a direct equivalence to disjunctive normal form from boolean logic.
+"ambiguity" is relevant to typing because when combined with plural types it creates a direct equivalence to disjunctive normal form from Boolean logic.
