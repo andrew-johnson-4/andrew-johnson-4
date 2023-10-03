@@ -16,8 +16,8 @@ $$cannot \ determine \ color \quad \frac{f:A \to B \quad f:B \to C \quad f:A \to
 
 You can use formal language to ask questions (proofs) or to write commands (programs).
 Heading further in either of these directions leads to
-* The Greedy Rule (maximalist program utility)
-* The Colorblind Rule (maximalist proof utility)
+* The Greedy Rule (maximalist inference/program utility)
+* The Colorblind Rule (maximalist confidence/proof utility)
 
 However, interestingly, these two rules can't be meaningfully unified;
 the result of both rules used simultaneously leads immediately to zero information gain (bottom).
