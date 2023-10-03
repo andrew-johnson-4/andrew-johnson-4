@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-“My life depended on 150,000 pieces of equipment – each bought from the lowest bidder.”
+“I am afraid sometimes that what I say is not what others hear, and that what I mean is not what others understand.”
 
 $$greedy \ infer \quad \frac{f:A \to B \quad f:B \to C}{f:A \to C}$$
 
