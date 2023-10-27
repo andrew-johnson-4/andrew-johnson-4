@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-“At some level it can be said that all logical statements are just mouth sounds.”
+“At some level, all logical statements are just mouth sounds.”
 
 ## My TODO List
 
