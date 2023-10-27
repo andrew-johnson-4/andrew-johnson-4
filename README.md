@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-“I am afraid sometimes that what I say is not what others hear, and that what I mean is not what others understand.”
+“At some level it can be said that all logical statements are just mouth sounds.”
 
 ## My TODO List
 
