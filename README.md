@@ -4,6 +4,5 @@
 
 ## My TODO List
 
-1. Finish [PunC](https://github.com/andrew-johnson-4/PunCalculus) typechecking to at least a point where it can verify LSTS programs
-2. Finish LambdaMountain parsing to provide a declarative parsing framework for both LSTS and LM programs
-3. Rewrite LSTS in LM with PunC verification
+1. Finish LambdaMountain parsing to provide a declarative parsing framework for both LSTS and LM programs
+2. Rewrite LSTS in LM with PunC verification
