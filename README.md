@@ -10,3 +10,4 @@
 
 1. Finish LambdaMountain parsing to provide a declarative parsing framework for both LSTS and LM programs
 2. Rewrite LSTS in LM with PunC verification
+3. Extend LSTS to support the full founding [Prelude](https://github.com/andrew-johnson-4/perplexity/blob/main/categorical_prelude.md)
