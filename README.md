@@ -2,6 +2,8 @@
 
 “At some level all logical statements are just mouth sounds.”
 
+"TF-IDF is a checksum too!"
+
 ## Bulletin
 
 * [PunC 1.0 Announcement](https://medium.com/@andrew_johnson_4/project-milestone-punc-1-0-and-lm-specifications-61602ca551fb)
