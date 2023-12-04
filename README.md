@@ -15,3 +15,5 @@
 “At some level all logical statements are just mouth sounds.”
 
 “TF-IDF is a checksum too!”
+
+“Where should I start reading a dictionary?”
