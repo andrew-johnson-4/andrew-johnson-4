@@ -2,7 +2,7 @@
 
 “At some level all logical statements are just mouth sounds.”
 
-"TF-IDF is a checksum too!"
+“TF-IDF is a checksum too!”
 
 ## Bulletin
 
