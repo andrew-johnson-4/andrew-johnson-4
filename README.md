@@ -6,7 +6,7 @@
 
 ## My TODO List
 
-1. Rewrite LSTS in LM with PunC verification
+1. Rewrite LSTS in LM with PunC/Relog verification
 2. Extend LSTS to support the full founding [Prelude](https://github.com/andrew-johnson-4/perplexity/blob/main/categorical_prelude.md)
 
 ## Favorite Idioms
