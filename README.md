@@ -6,7 +6,7 @@
 
 ## My TODO List
 
-1. [Bootstrap](https://github.com/andrew-johnson-4/-/issues/10) LM compiler from car/cdr based interpreter
+1. Bootstrap tandem compilers: lm.c <-> c.lm
 2. Rewrite LSTS in LM with PunC/Relog verification
 3. Optimize LSTS codegen for some common (CPU,GPU,Circuit Synthesis) use cases
 4. Extend LSTS to support the full founding [Prelude](https://github.com/andrew-johnson-4/perplexity/blob/main/categorical_prelude.md)
