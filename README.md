@@ -4,6 +4,10 @@
 
 * [PunC 1.0 Announcement](https://medium.com/@andrew_johnson_4/project-milestone-punc-1-0-and-lm-specifications-61602ca551fb)
 
+## Help Wanted
+
+* [Write Relog programs to explore how powerful a PunC/Relog Type System is](https://github.com/andrew-johnson-4/InPlace/issues/4)
+
 ## My TODO List
 
 1. Port a Basic Codegen: [chibi.lm](https://github.com/rui314/chibicc)
