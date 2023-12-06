@@ -6,7 +6,7 @@
 
 ## Help Wanted
 
-* [Write Relog programs to explore how powerful a PunC/Relog Type System is](https://github.com/andrew-johnson-4/InPlace/issues/4)
+* [Write Relog for RosettaCode](https://github.com/andrew-johnson-4/InPlace/issues/4)
 
 ## My TODO List
 
