@@ -6,7 +6,7 @@
 
 ## Help Wanted
 
-* [Write Relog programs for RosettaCode and document time complexity](https://github.com/andrew-johnson-4/InPlace/issues/4)
+* [Write Relog programs and document time complexity](https://github.com/andrew-johnson-4/InPlace/issues/4)
 
 ## My TODO List
 
