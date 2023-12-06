@@ -6,7 +6,7 @@
 
 ## Help Wanted
 
-* [Write Relog for RosettaCode](https://github.com/andrew-johnson-4/InPlace/issues/4)
+* [Write Relog programs for RosettaCode](https://github.com/andrew-johnson-4/InPlace/issues/4)
 
 ## My TODO List
 
