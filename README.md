@@ -10,7 +10,7 @@
 
 ## My TODO List
 
-1. Relog Standard Library having good performance and good feature completeness
+1. [Relog Standard Library](https://github.com/andrew-johnson-4/InPlace/issues/7) having good performance and good feature completeness
 2. Port a Basic Codegen: [chibi.lm](https://github.com/rui314/chibicc)
 3. Rewrite LSTS in LM with PunC/Relog verification
 4. Optimize LSTS codegen for some common (CPU,GPU,Circuit Synthesis) use cases
