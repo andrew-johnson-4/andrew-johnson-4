@@ -12,3 +12,7 @@
 4. Rewrite LSTS in LM with PunC/Relog verification
 5. Optimize LSTS codegen for some common (CPU,GPU,Circuit Synthesis) use cases
 6. Extend LSTS to support the full founding [Prelude](https://github.com/andrew-johnson-4/perplexity/blob/main/categorical_prelude.md)
+
+## Request a Service
+
+I build things for the web or your local computer. Have an idea, feel free to reach out: andrew[at]subarctic.org
