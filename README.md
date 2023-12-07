@@ -4,10 +4,6 @@
 
 * [PunC 1.0 Announcement](https://medium.com/@andrew_johnson_4/project-milestone-punc-1-0-and-lm-specifications-61602ca551fb)
 
-## Help Wanted
-
-* [Write Relog programs and document time complexity](https://github.com/andrew-johnson-4/InPlace/issues/4)
-
 ## My TODO List
 
 1. [Relog Standard Library](https://github.com/andrew-johnson-4/InPlace/issues/7) having good performance and good feature completeness
