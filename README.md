@@ -11,11 +11,3 @@
 3. Rewrite LSTS in LM with PunC/Relog verification
 4. Optimize LSTS codegen for some common (CPU,GPU,Circuit Synthesis) use cases
 5. Extend LSTS to support the full founding [Prelude](https://github.com/andrew-johnson-4/perplexity/blob/main/categorical_prelude.md)
-
-## Favorite Idioms
-
-“At some level all logical statements are just mouth sounds.”
-
-“TF-IDF is a checksum too!”
-
-“Where should I start reading a dictionary?”
