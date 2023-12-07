@@ -15,4 +15,5 @@
 
 ## Request a Service
 
-I build things for the web or your local computer. Have an idea, feel free to reach out: andrew[at]subarctic.org
+I build things for the web or your local computer. Have an idea, feel free to reach out:
+* andrew[at]subarctic.org
