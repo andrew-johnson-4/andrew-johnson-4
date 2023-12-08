@@ -8,6 +8,7 @@
 
 1. [Relog Standard Library](https://github.com/andrew-johnson-4/InPlace/issues/7) having good performance and good feature completeness
    * Making Relog powerful is useful because it allows side-effects to be well-typed (nominally)
+   * Optimize Relog reduction strategy (closed forms can already be fast, but it would be nice if standard reduction was quick too)
 3. Port a Basic Codegen for LM: [chibi.lm](https://github.com/rui314/chibicc)
 4. Rewrite LSTS in LM with PunC/Relog verification
 5. Optimize LSTS codegen for some common (CPU,GPU,Circuit Synthesis) use cases
