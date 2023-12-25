@@ -4,6 +4,13 @@
 
 * [PunC 1.0 Announcement](https://medium.com/@andrew_johnson_4/project-milestone-punc-1-0-and-lm-specifications-61602ca551fb)
 
+## 10000 foot view
+
+* PunC is an Intermediate Representation
+* Relog is a Type System
+* LM is a compiler backend
+* LSTS is a compiler frontend
+
 ## My TODO List
 
 1. [Relog Standard Library](https://github.com/andrew-johnson-4/InPlace/issues/7) having good performance and good feature completeness
