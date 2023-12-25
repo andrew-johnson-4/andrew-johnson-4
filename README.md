@@ -8,8 +8,8 @@
 
 * PunC is an Intermediate Representation
 * Relog is a Type System
-* λ☶ is a compiler backend
-* LSTS is a compiler frontend
+* λ☶ is a Compiler Backend
+* LSTS is a Compiler Frontend
 
 ## My TODO List
 
