@@ -6,10 +6,10 @@
 
 ## 10000 foot view
 
-* PunC is an Intermediate Representation
-* Relog is a Type System
-* λ☶ is a Compiler Backend
-* LSTS is a Compiler Frontend
+* [PunC](https://github.com/andrew-johnson-4/PunCalculus) is an Intermediate Representation
+* [Relog](https://github.com/andrew-johnson-4/InPlace) is a Type System
+* [λ☶](https://github.com/andrew-johnson-4/-) is a Compiler Backend
+* [LSTS](https://github.com/andrew-johnson-4/LSTS) is a Compiler Frontend
 
 ## My TODO List
 
