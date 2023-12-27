@@ -13,7 +13,7 @@
 
 ## My TODO List
 
-1. Implement a typed assembler for PunC
+1. Implement a typed assembler for PunC (x86 pushing out to GNU Assembler or NASM)
 2. [Relog Standard Library](https://github.com/andrew-johnson-4/InPlace/issues/7) having good performance and good feature completeness
    * Making Relog powerful is useful because it allows side-effects to be well-typed (nominally)
 3. Rewrite LSTS in LM with PunC/Relog verification
