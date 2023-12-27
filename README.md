@@ -14,11 +14,12 @@
 ## My TODO List
 
 1. Implement a typed assembler for PunC (x86 pushing out to GNU Assembler or NASM)
-2. [Relog Standard Library](https://github.com/andrew-johnson-4/InPlace/issues/7) having good performance and good feature completeness
+   * This provides an interface to attach arbitrary information to assembly fragments
+3. [Relog Standard Library](https://github.com/andrew-johnson-4/InPlace/issues/7) having good performance and good feature completeness
    * Making Relog powerful is useful because it allows side-effects to be well-typed (nominally)
-3. Rewrite LSTS in LM with PunC/Relog verification
-4. Optimize LSTS codegen for some common (CPU,GPU,Circuit Synthesis) use cases
-5. Extend LSTS to support the full founding [Prelude](https://github.com/andrew-johnson-4/perplexity/blob/main/categorical_prelude.md)
+4. Rewrite LSTS in LM with PunC/Relog verification
+5. Optimize LSTS codegen for some common (CPU,GPU,Circuit Synthesis) use cases
+6. Extend LSTS to support the full founding [Prelude](https://github.com/andrew-johnson-4/perplexity/blob/main/categorical_prelude.md)
 
 ## Request a Service
 
