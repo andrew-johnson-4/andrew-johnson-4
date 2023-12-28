@@ -1,5 +1,7 @@
 # Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
+> One of the most popular apps in phones are timers. The user already knows that they need to remember something, but they might need to be reminded. Assisted reasoning is sort of like that: a tea timer for logic.
+
 ## Bulletin
 
 * [PunC 1.0 Announcement](https://medium.com/@andrew_johnson_4/project-milestone-punc-1-0-and-lm-specifications-61602ca551fb)
