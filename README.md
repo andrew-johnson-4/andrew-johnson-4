@@ -9,7 +9,7 @@
 ## 10000 foot view
 
 * [PunC](https://github.com/andrew-johnson-4/PunCalculus) is an Intermediate Representation
-  * soon will come with a typed assembler capable of tracking register preservation/disturbance
+  * [soon](https://github.com/andrew-johnson-4/PunCalculus/issues/9) will come with a typed assembler capable of tracking register preservation/disturbance
 * [Relog](https://github.com/andrew-johnson-4/InPlace) is a Type System
 * [λ☶](https://github.com/andrew-johnson-4/-) is a Compiler Backend
 * [LSTS](https://github.com/andrew-johnson-4/LSTS) is a Compiler Frontend
