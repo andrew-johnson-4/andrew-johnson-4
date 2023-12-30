@@ -12,6 +12,7 @@
 * [Relog](https://github.com/andrew-johnson-4/InPlace) is a Type System
 * [λ☶](https://github.com/andrew-johnson-4/-) is a Compiler Backend
   * Combines PunC, Relog, and a simple S-Expression parser to create a typed fragment assembler
+  * LM also provides garbage collection and access to Rust data structures like Hashmap transparently from an S-Expression interface
 * [LSTS](https://github.com/andrew-johnson-4/LSTS) is a Compiler Frontend
 
 ## My TODO List
