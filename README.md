@@ -18,7 +18,7 @@
 ## My TODO List
 
 
-1. [Bootstrap LM](https://github.com/andrew-johnson-4/-/issues/14) from PunC/GNU Assembler
+1. [Bootstrap LM](https://github.com/andrew-johnson-4/-/issues/14)
 2. Implement a typed assembler for PunC (x86 pushing out to GNU Assembler or NASM)
    * This provides an interface to attach arbitrary information to assembly fragments
 3. [Relog Standard Library](https://github.com/andrew-johnson-4/InPlace/issues/7) having good performance and good feature completeness
