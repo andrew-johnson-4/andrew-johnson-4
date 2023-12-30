@@ -19,12 +19,10 @@
 
 
 1. [Bootstrap LM](https://github.com/andrew-johnson-4/-/issues/14)
-2. Implement a typed assembler for PunC (x86 pushing out to GNU Assembler or NASM)
-   * This provides an interface to attach arbitrary information to assembly fragments
-3. [Relog Standard Library](https://github.com/andrew-johnson-4/InPlace/issues/7) having good performance and good feature completeness
+2. [Relog Standard Library](https://github.com/andrew-johnson-4/InPlace/issues/7) having good performance and good feature completeness
    * Making Relog powerful is useful because it allows side-effects to be well-typed (nominally)
-4. Optimize LSTS codegen for some common (CPU,GPU,Circuit Synthesis) use cases
-5. Extend LSTS to support the full founding [Prelude](https://github.com/andrew-johnson-4/perplexity/blob/main/categorical_prelude.md)
+3. Optimize LSTS codegen for some common (CPU,GPU,Circuit Synthesis) use cases
+4. Extend LSTS to support the full founding [Prelude](https://github.com/andrew-johnson-4/perplexity/blob/main/categorical_prelude.md)
 
 ## Request a Service
 
