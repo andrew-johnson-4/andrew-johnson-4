@@ -16,12 +16,14 @@
 
 ## My TODO List
 
-
 1. [Bootstrap LM](https://github.com/andrew-johnson-4/-/issues/14)
-2. [Relog Standard Library](https://github.com/andrew-johnson-4/InPlace/issues/7) having good performance and good feature completeness
+   * Compile a, e, g, p, s bootstrap modules
+   * Optimize aegps generated code
+   * Freeze a "canonical" bootstrap version
+3. [Relog Standard Library](https://github.com/andrew-johnson-4/InPlace/issues/7) having good performance and good feature completeness
    * Making Relog powerful is useful because it allows side-effects to be well-typed (nominally)
-3. Optimize LSTS codegen for some common (CPU,GPU,Circuit Synthesis) use cases
-4. Extend LSTS to support the full founding [Prelude](https://github.com/andrew-johnson-4/perplexity/blob/main/categorical_prelude.md)
+4. Optimize LSTS codegen for some common (CPU,GPU,Circuit Synthesis) use cases
+5. Extend LSTS to support the full founding [Prelude](https://github.com/andrew-johnson-4/perplexity/blob/main/categorical_prelude.md)
 
 ## Request a Service
 
