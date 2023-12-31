@@ -17,8 +17,11 @@
 ## My TODO List
 
 1. [Bootstrap LM](https://github.com/andrew-johnson-4/-/issues/14)
-   * Compile a, e, g, p, s bootstrap modules
-   * Optimize aegps generated code
+   * ✓ Bootstrap Compile a CLI
+   * Bootstrap Compile a CLI that dumps S-Expression fragments
+   * Bootstrap Compile a CLI that normalizes then dumps S-Expression fragments
+   * Bootstrap Compile a CLI that verifies, normalizes, then dumps S-Expression fragments
+   * Bootstrap Compile a fast CLI that verifies, normalizes, then dumps S-Expression fragments
    * Freeze a "canonical" bootstrap version
 3. [Relog Standard Library](https://github.com/andrew-johnson-4/InPlace/issues/7) having good performance and good feature completeness
    * Making Relog powerful is useful because it allows side-effects to be well-typed (nominally)
