@@ -8,11 +8,11 @@
 
 ## 10000 foot view
 
-* [PunC](https://github.com/andrew-johnson-4/PunCalculus) is an Intermediate Representation
-* [Relog](https://github.com/andrew-johnson-4/InPlace) is a Type System
-* [λ☶](https://github.com/andrew-johnson-4/-) is a Compiler Backend
+* [PunC](https://github.com/andrew-johnson-4/PunCalculus) is an Intermediate Representation [![GitHub issues open](https://img.shields.io/github/issues/andrew-johnson-4/PunCalculus.svg)](https://github.com/andrew-johnson-4/PunCalculus/issues)
+* [Relog](https://github.com/andrew-johnson-4/InPlace) is a Type System [![GitHub issues open](https://img.shields.io/github/issues/andrew-johnson-4/InPlace.svg)](https://github.com/andrew-johnson-4/InPlace/issues)
+* [λ☶](https://github.com/andrew-johnson-4/-) is a Compiler Backend [![GitHub issues open](https://img.shields.io/github/issues/andrew-johnson-4/-.svg)](https://github.com/andrew-johnson-4/-/issues)
   * Combines PunC, Relog, and a simple S-Expression parser to create a typed fragment assembler
-* [LSTS](https://github.com/andrew-johnson-4/LSTS) is a Compiler Frontend
+* [LSTS](https://github.com/andrew-johnson-4/LSTS) is a Compiler Frontend [![GitHub issues open](https://img.shields.io/github/issues/andrew-johnson-4/LSTS.svg)](https://github.com/andrew-johnson-4/LSTS/issues)
 
 ## My TODO List
 
