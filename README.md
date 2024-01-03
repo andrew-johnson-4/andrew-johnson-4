@@ -19,6 +19,9 @@
 1. [Bootstrap LM](https://github.com/andrew-johnson-4/-/issues/14)
    * ✓ Bootstrap Compile a CLI that dumps S-Expression fragments
    * Bootstrap Compile a CLI that normalizes then dumps S-Expression fragments
+     * Atom convenience functions
+     * Cons convenience functions
+     * eval-ctx-soft / eval-ctx-hard
    * Bootstrap Compile a CLI that parses, normalizes, then dumps S-Expression fragments
    * Bootstrap Compile a CLI that parses, verifies, normalizes, then dumps S-Expression fragments
    * Bootstrap Compile a fast CLI that parses, verifies, normalizes, then dumps S-Expression fragments
