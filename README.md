@@ -17,7 +17,6 @@
 ## My TODO List
 
 1. [Bootstrap LM](https://github.com/andrew-johnson-4/-/issues/14)
-   * ✓ Bootstrap Compile a CLI
    * ✓ Bootstrap Compile a CLI that dumps S-Expression fragments
    * Bootstrap Compile a CLI that normalizes then dumps S-Expression fragments
    * Bootstrap Compile a CLI that parses, normalizes, then dumps S-Expression fragments
