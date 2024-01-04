@@ -20,18 +20,15 @@
 
 ## My TODO List
 
-1. [Bootstrap LM](https://github.com/andrew-johnson-4/-/issues/14)
-   * ✓ Bootstrap Compile a CLI that dumps S-Expression fragments
-   * Bootstrap Compile a CLI that normalizes then dumps S-Expression fragments
-     * Atom convenience functions
-     * Cons convenience functions
-     * eval-soft / eval-hard
-   * Bootstrap Compile a CLI that parses, normalizes, then dumps S-Expression fragments
-   * Bootstrap Compile a CLI that parses, verifies, normalizes, then dumps S-Expression fragments
-   * Bootstrap Compile a fast CLI that parses, verifies, normalizes, then dumps S-Expression fragments
-   * Freeze a "canonical" bootstrap version
-2. Optimize LSTS codegen for some common (CPU,GPU,Circuit Synthesis) use cases
-3. Extend LSTS to support the full founding [Prelude](https://github.com/andrew-johnson-4/perplexity/blob/main/categorical_prelude.md)
+* ✓ Bootstrap Compile a CLI that dumps S-Expression fragments
+* Bootstrap Compile a CLI that normalizes then dumps S-Expression fragments
+   * Atom convenience functions
+   * Cons convenience functions
+   * eval-soft / eval-hard
+* Bootstrap Compile a CLI that parses, normalizes, then dumps S-Expression fragments
+* Bootstrap Compile a CLI that parses, verifies, normalizes, then dumps S-Expression fragments
+* Bootstrap Compile a fast CLI that parses, verifies, normalizes, then dumps S-Expression fragments
+* Freeze a "canonical" bootstrap version
 
 ## Request a Service
 
