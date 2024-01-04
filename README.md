@@ -14,6 +14,10 @@
   * Combines PunC, Relog, and a simple S-Expression parser to create a typed fragment assembler
 * [LSTS](https://github.com/andrew-johnson-4/LSTS) is a Compiler Frontend
 
+## 2024 Roadmap
+
+* Bootstrap Compiler 🥳🎉🎁
+
 ## My TODO List
 
 1. [Bootstrap LM](https://github.com/andrew-johnson-4/-/issues/14)
