@@ -2,10 +2,6 @@
 
 > One of the most popular apps on phones are timers. The user already knows that they need to remember something, but they might need to be reminded. Assisted Reasoning is sort of like that: a tea timer for logic.
 
-## Bulletin
-
-* [PunC 1.0 Announcement](https://medium.com/@andrew_johnson_4/project-milestone-punc-1-0-and-lm-specifications-61602ca551fb)
-
 ## 10000 foot view
 
 * [PunC](https://github.com/andrew-johnson-4/PunCalculus) is an Intermediate Representation
