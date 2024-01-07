@@ -6,6 +6,10 @@
 
 > Imagine if Example Co. claimed ownership over the English language and tried to make international air traffic controllers pay for the rights to use it. People would get upset, right?
 
+There are enough programmers in the world now that Body Politics is starting to take hold.
+Legal Disputes can no longer be resolved between "two nerds disagreeing", but rather must be addressed to a larger non-uniform group of shareholders.
+If you want to interact with active language communities, you should be prepared for this variety of disputes and conflict resolution tactics.
+
 ## 10000 foot view
 
 * [PunC](https://github.com/andrew-johnson-4/PunCalculus) is an Intermediate Representation
