@@ -14,7 +14,9 @@ If you want to interact with active language communities, you should be prepared
 
 I don't want to distrust everyone, but I also don't want to trust everyone.
 
-## 10000 foot view
+## My Projects
+
+### 10000 foot view
 
 * [PunC](https://github.com/andrew-johnson-4/PunCalculus) is an Intermediate Representation
 * [Relog](https://github.com/andrew-johnson-4/InPlace) is a Type System
@@ -22,11 +24,11 @@ I don't want to distrust everyone, but I also don't want to trust everyone.
   * Combines PunC, Relog, and a simple S-Expression parser to create a typed fragment assembler
 * [LSTS](https://github.com/andrew-johnson-4/LSTS) is a Compiler Frontend
 
-## 2024 Roadmap
+### 2024 Roadmap
 
 * Bootstrap Compiler 🥳🎉🎁
 
-## My TODO List
+### My TODO List
 
 * ✓ Bootstrap Compile a CLI that dumps S-Expression fragments
 * Bootstrap Compile a CLI that normalizes then dumps S-Expression fragments
@@ -39,7 +41,7 @@ I don't want to distrust everyone, but I also don't want to trust everyone.
 * Bootstrap Compile a fast CLI that parses, verifies, normalizes, then dumps S-Expression fragments
 * Freeze a "canonical" bootstrap version
 
-## Request a Service
+### Request a Service
 
 I build things for the web or your local computer. Have an idea? Feel free to reach out:
 * andrew[at]subarctic.org
