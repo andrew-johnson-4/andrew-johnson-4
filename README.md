@@ -38,6 +38,8 @@ I don't want to distrust everyone, but I also don't want to trust everyone.
      * unsugared functions: `λ. tail $_`
      * sugared functions: `λx y z. XYZ x y z`
      * open problem for typechecking: `let` is a macro that manipulates the stack frame, how should this be modelled?
+       * assumptions about the registers and memory model are implicit parameters to all functions
+       * a simpler example might be to model the type signature of `push %ax`
    * eval-soft
 * Bootstrap Compile a CLI that parses, normalizes, then dumps S-Expression fragments
 * Bootstrap Compile a CLI that parses, verifies, normalizes, then dumps S-Expression fragments
