@@ -35,6 +35,8 @@ I don't want to distrust everyone, but I also don't want to trust everyone.
    * ✓ Atom convenience functions
    * ✓ Cons convenience functions
    * user-defined functions
+     * unsugared functions: `λ. tail $_`
+     * sugared functions: `λx y z. XYZ x y z`
    * eval-soft
 * Bootstrap Compile a CLI that parses, normalizes, then dumps S-Expression fragments
 * Bootstrap Compile a CLI that parses, verifies, normalizes, then dumps S-Expression fragments
