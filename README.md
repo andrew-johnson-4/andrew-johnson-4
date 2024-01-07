@@ -28,6 +28,10 @@ I don't want to distrust everyone, but I also don't want to trust everyone.
 
 * Bootstrap Compiler 🥳🎉🎁
 
+The bootstrap compiler implements eval-soft.
+The compiler will be considered complete when it can be shown that no valid program sent to eval-soft will crash or return a non-normal result.
+The one exception to this rule is Stack Overflow, which is a defined behavior with a non-normal result.
+
 ### My TODO List
 
 * ✓ Bootstrap Compile a CLI that dumps S-Expression fragments
