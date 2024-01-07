@@ -12,7 +12,7 @@ If you want to interact with active language communities, you should be prepared
 
 ## [On Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
 
-
+I don't want to distrust everyone, but I also don't want to trust everyone.
 
 ## 10000 foot view
 
