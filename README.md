@@ -41,7 +41,7 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
    * user-defined functions
      * unsugared functions: `λ. tail $_`
        * `$_` yields this in expression context (is often a noop)
-       * apply user-defined functions as bound variables
+       * ✓ apply user-defined functions as bound variables
      * sugared functions: `λx y z. XYZ x y z`
      * open problem for typechecking: `let` is a macro that manipulates the stack frame, how should this be modelled?
        * assumptions about the registers and memory model are implicit parameters to all functions
