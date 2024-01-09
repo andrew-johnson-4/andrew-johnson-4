@@ -2,14 +2,6 @@
 
 > One of the most popular apps on phones are timers. The user already knows that they need to remember something, but they might need to be reminded. Assisted Reasoning is sort of like that: a tea timer for logic.
 
-##  On Open-Source
-
-> Imagine if Example Co. claimed ownership over the English language and tried to make international air traffic controllers pay for the rights to use it. People would get upset, right?
-
-## [On Trusting Trust](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
-
-I don't want to distrust everyone, but I also don't want to trust everyone.
-
 ## My Projects
 
 ### 10000 foot view
