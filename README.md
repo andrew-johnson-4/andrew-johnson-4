@@ -27,6 +27,8 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
    * ✓ Atom convenience functions
    * ✓ Cons convenience functions
    * ✓ user-defined functions
+   * local variable convenience functions
+   * statement sequencing convenience functions
    * eval-soft
 * Bootstrap Compile a CLI that parses, normalizes, then dumps S-Expression fragments
 * Bootstrap Compile a CLI that parses, verifies, normalizes, then dumps S-Expression fragments
