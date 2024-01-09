@@ -34,9 +34,7 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
 * Bootstrap Compile a CLI that normalizes then dumps S-Expression fragments
    * ✓ Atom convenience functions
    * ✓ Cons convenience functions
-   * user-defined functions
-     * ✓ unsugared functions: `λ. tail $_`
-     * sugared functions: `λx y z. XYZ x y z`
+   * ✓ user-defined functions
    * eval-soft
 * Bootstrap Compile a CLI that parses, normalizes, then dumps S-Expression fragments
 * Bootstrap Compile a CLI that parses, verifies, normalizes, then dumps S-Expression fragments
