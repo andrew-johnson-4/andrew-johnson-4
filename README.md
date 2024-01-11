@@ -29,6 +29,7 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
    * ✓ user-defined functions
    * ✓ local variable convenience functions
    * ✓ control flow functions
+   * data structure functions
    * eval-soft
 * Bootstrap Compile a CLI that parses, normalizes, then dumps S-Expression fragments
 * Bootstrap Compile a CLI that parses, verifies, normalizes, then dumps S-Expression fragments
