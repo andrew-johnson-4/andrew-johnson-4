@@ -23,11 +23,7 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
 ### My TODO List
 
 * ✓ Bootstrap Compile a CLI that dumps S-Expression fragments
-* Bootstrap Compile a CLI that normalizes then dumps S-Expression fragments
-   * ✓ user defined functions
-   * ✓ control flow
-   * ✓ data structures
-   * eval-soft
+* ✓ Bootstrap Compile a CLI that normalizes then dumps S-Expression fragments
 * Bootstrap Compile a CLI that parses, normalizes, then dumps S-Expression fragments
 * Bootstrap Compile a CLI that parses, verifies, normalizes, then dumps S-Expression fragments
 * Bootstrap Compile a fast CLI that parses, verifies, normalizes, then dumps S-Expression fragments
