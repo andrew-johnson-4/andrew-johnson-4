@@ -30,6 +30,9 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
   * Rope
   * Recursive Descent Parser
 * Bootstrap Compile a CLI that parses, verifies, normalizes, then dumps S-Expression fragments
+  * Use "misc. data" fields on S expressions to store a type for each expression
+  * Infer type of each expression in program
+  * Decorate bootstrap compiler with annotations
 * Bootstrap Compile a fast CLI that parses, verifies, normalizes, then dumps S-Expression fragments
 * Freeze a "canonical" bootstrap version
 
