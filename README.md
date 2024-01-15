@@ -29,7 +29,7 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
     * `foreach-char` in Rope (use mutable atom to store character)
     * ✓ `foreach-atom` in Rope
     * `clone-rope` turn a Rope into a new single atom
-  * Files: `load-file`
+  * Files: `load-file` into Atom
   * Recursive Descent Parser
 * Bootstrap Compile a CLI that parses, verifies, normalizes, then dumps S-Expression fragments
   * Use "misc. data" fields on S expressions to store a type for each expression
