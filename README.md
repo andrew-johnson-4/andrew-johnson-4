@@ -25,7 +25,8 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
 * ✓ Bootstrap Compile a CLI that dumps S-Expression fragments
 * ✓ Bootstrap Compile a CLI that normalizes then dumps S-Expression fragments
 * Bootstrap Compile a CLI that parses, normalizes, then dumps S-Expression fragments
-  * ✓ Iterators: `for char in string: label`
+  * ✓ Closed Iterators: `for char in string: label`
+  * Open Iterators: `for char in string: expression`
   * ✓ Files: `load-file` into Atom
   * Recursive Descent Parser
 * Bootstrap Compile a CLI that parses, verifies, normalizes, then dumps S-Expression fragments
