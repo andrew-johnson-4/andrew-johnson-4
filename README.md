@@ -26,6 +26,9 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
 * ✓ Bootstrap Compile a CLI that normalizes then dumps S-Expression fragments
 * ✓ Bootstrap Compile a CLI that parses, normalizes, then dumps S-Expression fragments
 * Bootstrap Compile a CLI that parses, normalizes, then assembles input files including itself (actually bootstrapping at this point)
+  * Use `g.lm` to compile hello world
+  * Use `g.lm` to compile a CLI
+  * Use `g.lm` to compile itself, a full featured compiler
 * Bootstrap Compile a CLI that parses, verifies, normalizes, then assembles input files including itself
   * Use "misc. data" fields on S expressions to store a type for each expression
   * Infer type of each expression in program
