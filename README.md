@@ -27,6 +27,7 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
 * ✓ Bootstrap Compile a CLI that parses, normalizes, then dumps S-Expression fragments
 * Bootstrap Compile a CLI that parses, normalizes, then assembles input files including itself (actually bootstrapping at this point)
   * ✓ "Create File" system call
+  * Use `g.lm` to compile an empty program
   * Use `g.lm` to compile hello world
   * Use `g.lm` to compile and run the whole test suite
   * Use `g.lm` to compile itself, a full featured compiler
