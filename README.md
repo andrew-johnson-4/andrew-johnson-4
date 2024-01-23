@@ -30,7 +30,7 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
   * ✓ Use `g.lm` to compile an empty program
   * ✓ Global Variables
   * ✓ uuid convenience function
-  * Use `g.lm` to compile hello world
+  * ✓ Use `g.lm` to compile hello world
   * Use `g.lm` to compile and run the whole test suite
   * Use `g.lm` to compile itself, a full featured compiler
   * Distribute bootstrapped compiler with `cargo install` instead of hosted compiler
