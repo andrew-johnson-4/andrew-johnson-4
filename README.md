@@ -34,11 +34,6 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
   * Use `g.lm` to compile and run the whole test suite [(34 / 77 passing)](https://github.com/andrew-johnson-4/-/issues/42)
   * Use `g.lm` to compile itself, a full featured compiler
   * Distribute bootstrapped compiler with `cargo install` instead of hosted compiler
-* Bootstrap Compile a CLI that parses, verifies, normalizes, then assembles input files including itself
-  * Use "misc. data" fields on S expressions to store a type for each expression
-  * Infer type of each expression in program
-  * Decorate bootstrap compiler with annotations
-* Bootstrap Compile a fast CLI that parses, verifies, normalizes, then assembles input files including itself
 * Freeze a "canonical" bootstrap version
 
 ### Request a Service
