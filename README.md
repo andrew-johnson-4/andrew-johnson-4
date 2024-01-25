@@ -31,7 +31,7 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
   * ✓ Global Variables
   * ✓ uuid convenience function
   * ✓ Use `g.lm` to compile hello world
-  * Use `g.lm` to compile and run the whole test suite [(33 / 77 passing)](https://github.com/andrew-johnson-4/-/issues/42)
+  * Use `g.lm` to compile and run the whole test suite [(34 / 77 passing)](https://github.com/andrew-johnson-4/-/issues/42)
   * Use `g.lm` to compile itself, a full featured compiler
   * Distribute bootstrapped compiler with `cargo install` instead of hosted compiler
 * Bootstrap Compile a CLI that parses, verifies, normalizes, then assembles input files including itself
