@@ -26,7 +26,7 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
 * ✓ Bootstrap Compile a CLI that normalizes then dumps S-Expression fragments
 * ✓ Bootstrap Compile a CLI that parses, normalizes, then dumps S-Expression fragments
 * Bootstrap Compile a CLI that parses, normalizes, then assembles input files including itself (actually bootstrapping at this point)
-  * Use `g.lm` to compile and run the whole test suite [(68 / 87 passing)](https://github.com/andrew-johnson-4/-/issues/42)
+  * Use `g.lm` to compile and run the whole test suite [(68 / 80 passing)](https://github.com/andrew-johnson-4/-/issues/42)
   * Use `g.lm` to compile itself, a full featured compiler
   * Distribute bootstrapped compiler with `cargo install` instead of hosted compiler
 * Freeze a "canonical" bootstrap version
