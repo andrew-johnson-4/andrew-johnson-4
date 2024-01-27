@@ -28,6 +28,9 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
 * Bootstrap Compile a CLI that parses, normalizes, then assembles input files including itself (actually bootstrapping at this point)
   * ✓ Use `g.lm` to compile and run the whole test suite
   * Use `g.lm` to compile itself, a full featured compiler
+    * --tokenize PRODUCTION/cli.lm
+    * --parse PRODUCTION/cli.lm
+    * -o lambda_mountain
 * (λ☶ VERSION 1.0) Distribute bootstrapped compiler with `cargo install` instead of hosted compiler
 
 ### Request a Service
