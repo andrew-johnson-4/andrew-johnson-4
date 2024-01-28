@@ -37,6 +37,8 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
        * call parse-one (7779 times - high)
     * -o lambda_mountain
 * (λ☶ VERSION 1.0) Distribute bootstrapped compiler with `cargo install` instead of hosted compiler
+* Type Checking
+* Blame Tracking
 
 ### Request a Service
 
