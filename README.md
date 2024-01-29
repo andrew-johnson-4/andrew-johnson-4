@@ -31,7 +31,7 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
     * ✓ --tokenize PRODUCTION/cli.lm
     * ✓ --parse PRODUCTION/cli.lm
     * ✓ Validate full correctness of bootstrap parser against hosted parser (78 / 78 passing)
-    * optimize memory footprint of compiler: (current footprint = 16MB of cons cells to parse an 80KB file)
+    * optimize memory footprint of compiler: (current footprint = 20MB of cons cells to parse an 80KB file)
       * parse-one-expression still copies entire head of list for parenthesized groups
     * finish self-hosting compiler
 * (λ☶ VERSION 1.0) Distribute bootstrapped compiler with `cargo install` instead of hosted compiler
