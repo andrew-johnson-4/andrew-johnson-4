@@ -29,8 +29,6 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
 * (λ☶ VERSION 1.0) Distribute bootstrapped compiler with `cargo install` instead of hosted compiler
    * check that bootstrap bootstrap is byte identical to hosted bootstrap (180 / 250)
      * tokenizer is stable, 71 cases of parser are different, codegen should be ok too
-     * A_COUNTER: 1078859393 (corrupt value)
-     * S_COUNTER: 1078859418
    * package as crate
 
 ### Request a Service
