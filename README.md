@@ -13,7 +13,7 @@
 
 ### 2024 Roadmap
 
-* ✓ [Bootstrap Compiler](https://github.com/andrew-johnson-4/-/wiki) 🥳🎉🎁
+* ✓ [Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
 
 ### Request a Service
 
