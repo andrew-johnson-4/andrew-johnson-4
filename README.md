@@ -28,7 +28,7 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
 * ✓ Bootstrap Compile a CLI that parses, normalizes, then assembles input files including itself (actually bootstrapping at this point)
 * (λ☶ VERSION 1.0) Distribute bootstrapped compiler with `cargo install` instead of hosted compiler
    * check that bootstrap bootstrap is byte identical to hosted bootstrap (180 / 250)
-     * tokenizer is stable, 71 cases of parser are different
+     * tokenizer is stable, 71 cases of parser are different, codegen should be ok too
    * package as crate
 
 ### Request a Service
