@@ -11,6 +11,7 @@
 * [λ☶](https://github.com/andrew-johnson-4/-) is a Compiler Backend
 * [LSTS](https://github.com/andrew-johnson-4/LSTS) is a Compiler Frontend
 * [doby](https://github.com/andrew-johnson-4/doby) is a Package Manager and Build Tool.
+* [Awesome LM](https://github.com/andrew-johnson-4/awesome-lm) is a Curated List of LM Projects.
 
 ### 2024 Roadmap
 
