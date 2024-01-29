@@ -9,7 +9,6 @@
 * [PunC](https://github.com/andrew-johnson-4/PunCalculus) is an Intermediate Representation
 * [Relog](https://github.com/andrew-johnson-4/InPlace) is a Type System
 * [λ☶](https://github.com/andrew-johnson-4/-) is a Compiler Backend
-  * Combines PunC, Relog, and a simple S-Expression parser to create a typed fragment assembler
 * [LSTS](https://github.com/andrew-johnson-4/LSTS) is a Compiler Frontend
 
 ### 2024 Roadmap
