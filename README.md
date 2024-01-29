@@ -22,11 +22,8 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
 
 ### My TODO List
 
-* ✓ Bootstrap Compile a CLI that dumps S-Expression fragments
-* ✓ Bootstrap Compile a CLI that normalizes then dumps S-Expression fragments
-* ✓ Bootstrap Compile a CLI that parses, normalizes, then dumps S-Expression fragments
-* ✓ Bootstrap Compile a CLI that parses, normalizes, then assembles input files including itself (actually bootstrapping at this point)
 * (λ☶ VERSION 1.0) Distribute bootstrapped compiler with `cargo install` instead of hosted compiler
+   * ✓ bootstrap compiler 
    * package as crate
 
 ### Request a Service
