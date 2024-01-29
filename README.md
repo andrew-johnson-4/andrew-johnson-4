@@ -31,11 +31,8 @@ The one exception to this rule is Stack Overflow, which is a defined behavior wi
     * ✓ --tokenize PRODUCTION/cli.lm
     * ✓ --parse PRODUCTION/cli.lm
     * ✓ Validate full correctness of bootstrap parser against hosted parser (78 / 78 passing)
-    * optimize memory footprint of compiler: (current footprint = 50MB of cons cells to parse an 80KB file)
-       * call parse-lambda (35 times - correct)
-       * call parse-many (2635 times - high)
-       * call parse-one (7779 times - high)
-    * -o lambda_mountain
+    * optimize memory footprint of compiler: (current footprint = 16MB of cons cells to parse an 80KB file)
+    * finish self-hosting compiler
 * (λ☶ VERSION 1.0) Distribute bootstrapped compiler with `cargo install` instead of hosted compiler
 * Type Checking
 * Blame Tracking
