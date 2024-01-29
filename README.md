@@ -10,6 +10,7 @@
 * [Relog](https://github.com/andrew-johnson-4/InPlace) is a Type System
 * [λ☶](https://github.com/andrew-johnson-4/-) is a Compiler Backend
 * [LSTS](https://github.com/andrew-johnson-4/LSTS) is a Compiler Frontend
+* [doby](https://github.com/andrew-johnson-4/LSTS) is a Package Manager and Build Tool.
 
 ### 2024 Roadmap
 
