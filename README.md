@@ -15,12 +15,6 @@
 
 * Bootstrap Compiler 🥳🎉🎁
 
-### My TODO List
-
-* (λ☶ VERSION 1.0) Distribute bootstrapped compiler with `cargo install` instead of hosted compiler
-   * ✓ bootstrap compiler 
-   * package as crate
-
 ### Request a Service
 
 I build things for the web or your local computer. Have an idea? Feel free to reach out:
