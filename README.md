@@ -2,17 +2,6 @@
 
 > One of the most popular apps on phones are timers. The user already knows that they need to remember something, but they might need to be reminded. Assisted Reasoning is sort of like that: a tea timer for logic.
 
-## My Projects
-
-### 10000 foot view
-
-* [PunC](https://github.com/andrew-johnson-4/PunCalculus) is an Intermediate Representation
-* [Relog](https://github.com/andrew-johnson-4/InPlace) is a Type System
-* [λ☶](https://github.com/andrew-johnson-4/-) is a Compiler Backend
-* [LSTS](https://github.com/andrew-johnson-4/LSTS) is a Compiler Frontend
-* [doby](https://github.com/andrew-johnson-4/doby) is a Package Manager and Build Tool
-* [Awesome LM](https://github.com/andrew-johnson-4/awesome-lm) is a Curated List of LM Projects
-
 ### 2024 Roadmap
 
 * ✓ [Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
