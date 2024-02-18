@@ -6,7 +6,8 @@
 
 * ✓ [Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
 * PunC typechecking for the bootstrap compiler
-   * type checking
+   * ✓ type inference
+   * type checking with structural type definitions and tagged unions
    * blame / error reporting with line numbers and code snippets
 
 ### Request a Service
