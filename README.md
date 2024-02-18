@@ -5,11 +5,12 @@
 ### 2024 Roadmap
 
 * ✓ [Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
-* PunC typechecking for the bootstrap compiler
+* Typesafe Bootstrap Compiler
    * ✓ Hindley-Milner type inference
    * type checking with structural type definitions and tagged unions
    * adhoc-polymorphism for functions
    * blame / error reporting with line numbers and code snippets
+   * annotate compiler with types (version 1.1.0 release)
 
 ### Request a Service
 
