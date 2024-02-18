@@ -8,6 +8,7 @@
 * PunC typechecking for the bootstrap compiler
    * ✓ type inference
    * type checking with structural type definitions and tagged unions
+   * adhoc-polymorphism for functions
    * blame / error reporting with line numbers and code snippets
 
 ### Request a Service
