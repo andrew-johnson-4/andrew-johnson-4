@@ -10,9 +10,9 @@
    * ✓ type checking with structural type definitions and tagged unions
    * ✓ subtyping to support specialization of code/data representations
    * ✓ adhoc-polymorphism for functions
-   * blame / error reporting with line numbers and code snippets
-     *  Source map for tokens in lieu of smart strings
+   * ✓ blame / error reporting with line numbers and code snippets
    * production compiler (version 1.1.0 release)
+     * Production Code Generation 
 
 ### Request a Service
 
