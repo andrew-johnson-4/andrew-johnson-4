@@ -11,6 +11,7 @@
    * ✓ subtyping to support specialization of code/data representations
    * ✓ adhoc-polymorphism for functions
    * blame / error reporting with line numbers and code snippets
+     *  Source map for tokens in lieu of smart strings
    * production compiler (version 1.1.0 release)
 
 ### Request a Service
