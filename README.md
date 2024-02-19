@@ -7,7 +7,7 @@
 * ✓ [Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
 * Typesafe Bootstrap Compiler
    * ✓ Hindley-Milner type inference
-   * type checking with structural type definitions and tagged unions
+   * ✓ type checking with structural type definitions and tagged unions
    * ✓ subtyping to support specialization of code/data representations
    * ✓ adhoc-polymorphism for functions
    * blame / error reporting with line numbers and code snippets
