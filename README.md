@@ -8,9 +8,9 @@
 * ✓ [1.1.0 Typesafe Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.1.0)
 * More Practicality for Real Usage (1.2.0)
   * dynamic heap allocation
+    * linked list of isoheap pages is a good default
     * STDLIB/default-atom-allocator.lm
     * STDLIB/default-cons-allocator.lm
-    * linked list of isoheap pages is a good default
   * relative imports during build
   * doby based build manager
 
