@@ -12,7 +12,13 @@
    * ✓ adhoc-polymorphism for functions
    * ✓ blame / error reporting with line numbers and code snippets
    * production compiler (version 1.1.0 release)
-     * Production Code Generation 
+     * Production Code Generation
+* More Practicality for Real Usage
+  * dynamic heap allocation
+    * STDLIB/default-atom-allocator.lm
+    * STDLIB/default-cons-allocator.lm
+    * linked list of isoheap pages is a good default
+  * relative imports during build
 
 ### Request a Service
 
