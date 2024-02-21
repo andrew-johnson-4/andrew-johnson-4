@@ -5,7 +5,7 @@
 ### 2024 Roadmap
 
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
-* ✓ [1.1.0 Typesafe Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.1.0)
+* ✓ [1.1.0 Typesafe Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.1.0)
 * More Practicality for Real Usage (1.2.0)
   * dynamic heap allocation
     * linked list of isoheap pages is a good default
