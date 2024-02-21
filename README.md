@@ -11,7 +11,7 @@
     * linked list of isoheap pages is a good default
     * STDLIB/default-atom-allocator.lm
       * center on (allocate-append-atom base-cstring new-cstring) method
-      * `Page<PageSize=Int> { last-string-head: char*, last-string-tail: char*, next-page: Page, page-data: char[PageSize] }`
+      * `Page<PageSize=Int> { last-string-head: char*, last-string-tail: char*, next-page: Page<PageSize>, page-data: char[PageSize] }`
       * not to be used for dynamically extending strings (clone-rope is still recommended for best performance)
     * STDLIB/default-cons-allocator.lm
       * center on (allocate-cons()) method
