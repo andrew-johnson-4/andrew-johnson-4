@@ -4,16 +4,9 @@
 
 ### 2024 Roadmap
 
-* ✓ [Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
-* Typesafe Bootstrap Compiler
-   * ✓ Hindley-Milner type inference
-   * ✓ type checking with structural type definitions and tagged unions
-   * ✓ subtyping to support specialization of code/data representations
-   * ✓ adhoc-polymorphism for functions
-   * ✓ blame / error reporting with line numbers and code snippets
-   * production compiler (version 1.1.0 release)
-     * Production Code Generation
-* More Practicality for Real Usage
+* ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
+* ✓ [1.1.0 Typesafe Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.1.0)
+* More Practicality for Real Usage (1.2.0)
   * dynamic heap allocation
     * STDLIB/default-atom-allocator.lm
     * STDLIB/default-cons-allocator.lm
