@@ -14,6 +14,7 @@
     * STDLIB/default-cons-allocator.lm
       * center on (allocate-cons()) method
     * page table heads are static globals (how can this be declared in the stdlib modules?)
+      * They aren't S-Expressions, so some basic notion of data-type is necessary?
   * relative imports during build
   * doby based build manager
 
