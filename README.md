@@ -11,6 +11,7 @@
     * linked list of isoheap pages is a good default
     * STDLIB/default-atom-allocator.lm
       * center on (allocate-append-atom base-cstring new-cstring) method
+      * not to be used for dynamically extending strings (clone-rope is still recommended for best performance)
     * STDLIB/default-cons-allocator.lm
       * center on (allocate-cons()) method
     * page table heads are static globals (how can this be declared in the stdlib modules?)
