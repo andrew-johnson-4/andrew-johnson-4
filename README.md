@@ -10,7 +10,7 @@
   * dynamic heap allocation
     * linked list of isoheap pages is a good default
     * STDLIB/default-atom-allocator.lm
-      * center on (allocate-append-atom base-cstring new-cstring)
+      * center on (allocate-append-atom base-cstring new-cstring) method
     * STDLIB/default-cons-allocator.lm
       * center on (allocate-cons()) method
   * relative imports during build
