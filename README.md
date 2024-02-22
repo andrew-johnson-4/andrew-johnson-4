@@ -18,6 +18,7 @@
     * page table heads are static globals (how can this be declared in the stdlib modules?)
       * They aren't S-Expressions, so some basic notion of data-type is necessary?
       * no pages are allocated to begin so overhead is one word for each allocator
+      * make a global symbol for raw .text and .data section manipulation
   * atom deduplication (this is a simple optimization)
   * relative imports during build
   * doby based build manager
