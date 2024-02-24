@@ -21,7 +21,6 @@
       * no pages are allocated to begin so overhead is one word for each allocator
       * make a global symbol for raw .text and .data section manipulation
   * atom deduplication (this is a simple optimization)
-
   * doby based build manager
 
 ### Request a Service
