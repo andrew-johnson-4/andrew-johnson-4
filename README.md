@@ -7,6 +7,7 @@
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
 * ✓ [1.1.0 Typesafe Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.1.0)
 * More Practicality for Real Usage (1.2.0)
+  * relative imports during build 
   * dynamic heap allocation
     * linked list of isoheap pages is a good default
     * STDLIB/default-atom-allocator.lm
@@ -20,7 +21,7 @@
       * no pages are allocated to begin so overhead is one word for each allocator
       * make a global symbol for raw .text and .data section manipulation
   * atom deduplication (this is a simple optimization)
-  * relative imports during build
+
   * doby based build manager
 
 ### Request a Service
