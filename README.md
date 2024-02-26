@@ -8,20 +8,9 @@
 * ✓ [1.1.0 Typesafe Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.1.0)
 * More Practicality for Real Usage (1.2.0)
   * relative imports during build 
-  * dynamic heap allocation
-    * linked list of isoheap pages is a good default
-    * STDLIB/default-atom-allocator.lm
-      * center on (allocate-append-atom base-cstring new-cstring) method
-      * `Page<PageSize=Int> { last-string-head: char*, last-string-tail: char*, next-page: Page<PageSize>, page-data: char[PageSize] }`
-      * not to be used for dynamically extending strings (clone-rope is still recommended for best performance)
-    * STDLIB/default-cons-allocator.lm
-      * center on (allocate-cons()) method
-    * page table heads are static globals (how can this be declared in the stdlib modules?)
-      * They aren't S-Expressions, so some basic notion of data-type is necessary?
-      * no pages are allocated to begin so overhead is one word for each allocator
-      * make a global symbol for raw .text and .data section manipulation
   * atom deduplication (this is a simple optimization)
   * doby based build manager
+  * integrated type checking with specialization
 
 ### Request a Service
 
