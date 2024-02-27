@@ -17,6 +17,8 @@
   * Operations on Primitive Types (+, -, /, ...)
   * Basic Data Structures: Structs, Tagged Unions
   * Specialized Explicit Context: Typesafe Register Allocation, Stack State, Heap State
+  * Arbitrary Custom Data Structures (raw data fragment based definitions)
+  * Arbitrary Custom Code Structures (raw code fragment based definitions)
 * Garbage Collection
   * [Atom Allocator](https://github.com/andrew-johnson-4/lm_skip_list_atom_allocator)
   * [Cons Allocator](https://github.com/andrew-johnson-4/lm_generational_cons_allocator)
