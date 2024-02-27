@@ -11,11 +11,11 @@
   * implicit arguments
   * chain / apply based fragment management
   * Remove all S-Expression default types from compiler
+  * Named Accessors for Struct Types (.offset:Expr->Int), (set.offset:(Expr,Int)->Nil)
 * Specialized Code / Data Representations
   * Primitive Data Types (Int, Float, ...)
   * Operations on Primitive Types (+, -, /, ...)
   * Basic Data Structures: Structs, Tagged Unions
-  * Named Accessors for Struct Types (.offset:Expr->Int), (set.offset:(Expr,Int)->Nil)
   * Specialized Explicit Context: Typesafe Register Allocation, Stack State, Heap State
 * Garbage Collection
   * [Atom Allocator](https://github.com/andrew-johnson-4/lm_skip_list_atom_allocator)
