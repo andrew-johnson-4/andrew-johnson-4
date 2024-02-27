@@ -20,8 +20,8 @@
   * Arbitrary Custom Data Structures (raw data fragment based definitions)
   * Arbitrary Custom Code Structures (raw code fragment based definitions)
 * Garbage Collection
-  * [Atom Allocator](https://github.com/andrew-johnson-4/lm_skip_list_atom_allocator) (Defined as a custom data structure)
-  * [Cons Allocator](https://github.com/andrew-johnson-4/lm_generational_cons_allocator) (Defined as a custom data structure)
+  * [Atom Allocator](https://github.com/andrew-johnson-4/lm_skip_list_atom_allocator) (defined as a custom data structure)
+  * [Cons Allocator](https://github.com/andrew-johnson-4/lm_generational_cons_allocator) (defined as a custom data structure)
 
 
 ### Request a Service
