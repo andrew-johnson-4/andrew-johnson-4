@@ -5,12 +5,22 @@
 ### 2024 Roadmap
 
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
-* ✓ [1.1.0 Typesafe Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.1.0)
-* More Practicality for Real Usage (1.2.0)
-  * ✓ relative imports during build
-  * ✓ dynamic cons / atom allocators
-  * ✓ atom deduplication (this is a simple optimization)
-  * integrated type checking with specialization
+* ✓ [1.6.0 Production Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.6.0)
+* Ad-Hoc Specialization
+  * specialization of function calls
+  * implicit arguments
+  * chain / apply based fragment management
+  * Remove all S-Expression default types from compiler
+* Specialized Code / Data Representations
+  * Primitive Data Types (Int, Float, ...)
+  * Operations on Primitive Types (+, -, /, ...)
+  * Basic Data Structures: Structs, Tagged Unions
+  * Specialized Explicit Context: Typesafe Register Allocation, Stack State, Heap State
+* Garbage Collection
+  * Cons Allocator
+  * [Atom Allocator](https://github.com/andrew-johnson-4/lm_skip_list_atom_allocator)
+  * [Cons Allocator](https://github.com/andrew-johnson-4/lm_generational_cons_allocator)
+
 
 ### Request a Service
 
