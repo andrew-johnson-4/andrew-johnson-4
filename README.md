@@ -9,7 +9,7 @@
 * More Practicality for Real Usage (1.2.0)
   * ✓ relative imports during build
   * ✓ dynamic cons / atom allocators
-  * atom deduplication (this is a simple optimization)
+  * ✓ atom deduplication (this is a simple optimization)
   * doby based build manager
   * integrated type checking with specialization
 
