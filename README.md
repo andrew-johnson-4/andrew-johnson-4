@@ -18,7 +18,6 @@
   * Named Accessors for Struct Types (.offset:Expr->Int), (set.offset:(Expr,Int)->Nil)
   * Specialized Explicit Context: Typesafe Register Allocation, Stack State, Heap State
 * Garbage Collection
-  * Cons Allocator
   * [Atom Allocator](https://github.com/andrew-johnson-4/lm_skip_list_atom_allocator)
   * [Cons Allocator](https://github.com/andrew-johnson-4/lm_generational_cons_allocator)
 
