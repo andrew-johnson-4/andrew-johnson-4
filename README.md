@@ -10,7 +10,6 @@
   * ✓ relative imports during build
   * ✓ dynamic cons / atom allocators
   * ✓ atom deduplication (this is a simple optimization)
-  * doby based build manager
   * integrated type checking with specialization
 
 ### Request a Service
