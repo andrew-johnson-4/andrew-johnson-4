@@ -15,6 +15,7 @@
   * Primitive Data Types (Int, Float, ...)
   * Operations on Primitive Types (+, -, /, ...)
   * Basic Data Structures: Structs, Tagged Unions
+  * Named Accessors for Struct Types (.offset:Expr->Int), (set.offset:(Expr,Int)->Nil)
   * Specialized Explicit Context: Typesafe Register Allocation, Stack State, Heap State
 * Garbage Collection
   * Cons Allocator
