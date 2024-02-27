@@ -8,7 +8,7 @@
 * ✓ [1.1.0 Typesafe Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.1.0)
 * More Practicality for Real Usage (1.2.0)
   * ✓ relative imports during build
-  * dynamic cons / atom allocators
+  * ✓ dynamic cons / atom allocators
   * atom deduplication (this is a simple optimization)
   * doby based build manager
   * integrated type checking with specialization
