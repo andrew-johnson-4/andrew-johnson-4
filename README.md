@@ -12,7 +12,7 @@
   * implicit arguments
   * chain / apply based fragment management
   * Remove all S-Expression default types from compiler (enforce with --strict)
-  * Named Accessors for Struct Types (.offset:Expr->Int), (set.offset:(Expr,Int)->Nil)
+  * Named Accessors for Struct Types (.offset:Expr->Int), (set.offset:(Expr,Int)->Nil) (different functions have different calling conventions)
 * Specialized Code / Data Representations
   * Primitive Data Types (Int, Float, ...)
   * Operations on Primitive Types (+, -, /, ...)
