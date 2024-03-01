@@ -9,6 +9,7 @@
 * Ad-Hoc Specialization
   * ✓ specialization of function calls
   * Platform Agnostic Assembler `(chain l r)` directs everything
+    * chain exists during codegen as a script, not a real function
   * implicit arguments
   * chain / apply based fragment management (move let / match into library, no special treatment)
   * Remove all S-Expression default types from compiler (enforce with --strict)
