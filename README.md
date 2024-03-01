@@ -7,8 +7,8 @@
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
 * ✓ [1.6.0 Production Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.6.0)
 * Ad-Hoc Specialization
-  * Platform Agnostic Assembler
   * ✓ specialization of function calls
+  * Platform Agnostic Assembler `(chain l r)` directs everything
   * implicit arguments
   * chain / apply based fragment management (move let / match into library, no special treatment)
   * Remove all S-Expression default types from compiler (enforce with --strict)
