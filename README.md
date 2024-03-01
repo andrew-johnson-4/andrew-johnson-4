@@ -10,7 +10,7 @@
   * Platform Agnostic Assembler
   * ✓ specialization of function calls
   * implicit arguments
-  * chain / apply based fragment management
+  * chain / apply based fragment management (move let / match into library, no special treatment)
   * Remove all S-Expression default types from compiler (enforce with --strict)
   * Named Accessors for Struct Types (.offset:Expr->Int), (set.offset:(Expr,Int)->Nil) (different functions have different calling conventions)
 * Specialized Code / Data Representations
