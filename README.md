@@ -9,9 +9,9 @@
 * Ad-Hoc Specialization
   * ✓ specialization of function calls
   * ✓ custom macros
-  * Platform Agnostic Assembler
+  * ✓ let and match are macros no special treatment
+  * Platform Agnostic Assembler (specialized chain / apply)
   * implicit arguments
-  * chain / apply based fragment management (move let / match into library, no special treatment)
   * Remove all S-Expression default types from compiler (enforce with --strict)
   * Named Accessors for Struct Types (.offset:Expr->Int), (set.offset:(Expr,Int)->Nil) (different functions have different calling conventions)
 * Specialized Code / Data Representations
