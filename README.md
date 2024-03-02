@@ -8,7 +8,7 @@
 * ✓ [1.6.0 Production Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.6.0)
 * Ad-Hoc Specialization
   * ✓ specialization of function calls
-  * ✓ custom macros `let` and `match` aren't special (type-sensitive macros are not necessary rn)
+  * ✓ custom macros
   * Platform Agnostic Assembler
   * implicit arguments
   * chain / apply based fragment management (move let / match into library, no special treatment)
