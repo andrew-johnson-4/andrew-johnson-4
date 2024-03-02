@@ -10,6 +10,8 @@
   * ✓ specialization of function calls
   * ✓ custom macros
   * ✓ let and match are macros no special treatment
+  * use let/match macros inside of compiler
+  * move macro system and typechecker into separate files
   * Platform Agnostic Assembler (specialized chain / apply)
   * implicit arguments
   * Remove all S-Expression default types from compiler (enforce with --strict)
