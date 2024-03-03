@@ -19,6 +19,7 @@
   * Remove all S-Expression default types from compiler (enforce with --strict)
   * Named Accessors for Struct Types (.offset:Expr->Int), (set.offset:(Expr,Int)->Nil) (different functions have different calling conventions)
   * benchmark vs some other compilers (OCaml, Rust, C) 📈📈📈
+  * don't generate code for unused functions
 * Garbage Collection
   * [Atom Allocator](https://github.com/andrew-johnson-4/lm_skip_list_atom_allocator) (defined as a custom data structure)
   * [Cons Allocator](https://github.com/andrew-johnson-4/lm_generational_cons_allocator) (defined as a custom data structure)
