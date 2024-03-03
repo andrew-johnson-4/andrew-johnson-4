@@ -21,6 +21,7 @@
 * Garbage Collection
   * [Atom Allocator](https://github.com/andrew-johnson-4/lm_skip_list_atom_allocator) (defined as a custom data structure)
   * [Cons Allocator](https://github.com/andrew-johnson-4/lm_generational_cons_allocator) (defined as a custom data structure)
+  * benchmark vs some other fp compilers
 
 
 ### Request a Service
