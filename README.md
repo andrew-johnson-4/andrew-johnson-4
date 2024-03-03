@@ -25,4 +25,4 @@
 
 ### Benchmarks are silly but we still do them (yes Dynamic Code is slow)
 
-![Fibonacci](https://raw.githubusercontent.com/andrew-johnson-4/andrew-johnson-4/4526fe38dc944656f65d2ba8bcb1f41ed10e58be/fib.svg)
+![Fibonacci](https://raw.githubusercontent.com/andrew-johnson-4/andrew-johnson-4/master/fib.svg)
