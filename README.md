@@ -6,16 +6,7 @@
 
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
 * ✓ [1.6.0 Production Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.6.0)
-* Ad-Hoc Specialization
-  * ✓ specialization of function calls
-  * ✓ custom macros
-  * ✓ let and match are macros no special treatment
-  * use let/match macros inside of compiler
-  * move macro system and typechecker into separate files
-  * Platform Agnostic Assembler (specialized chain / apply)
-  * implicit arguments
-  * Remove all S-Expression default types from compiler (enforce with --strict)
-  * Named Accessors for Struct Types (.offset:Expr->Int), (set.offset:(Expr,Int)->Nil) (different functions have different calling conventions)
+* ✓ [1.10.0 Ad-Hoc Specialization and Macros](https://github.com/andrew-johnson-4/-/releases/tag/1.10.0)
 * Specialized Code / Data Representations
   * Primitive Data Types (Int, Float, ...)
   * Operations on Primitive Types (+, -, /, ...)
@@ -23,6 +14,8 @@
   * Specialized Explicit Context: Typesafe Register Allocation, Stack State, Heap State
   * Arbitrary Custom Data Structures (raw data fragment based definitions)
   * Arbitrary Custom Code Structures (raw code fragment based definitions)
+  * Remove all S-Expression default types from compiler (enforce with --strict)
+  * Named Accessors for Struct Types (.offset:Expr->Int), (set.offset:(Expr,Int)->Nil) (different functions have different calling conventions)
 * Garbage Collection
   * [Atom Allocator](https://github.com/andrew-johnson-4/lm_skip_list_atom_allocator) (defined as a custom data structure)
   * [Cons Allocator](https://github.com/andrew-johnson-4/lm_generational_cons_allocator) (defined as a custom data structure)
