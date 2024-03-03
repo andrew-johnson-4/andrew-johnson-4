@@ -23,6 +23,6 @@
   * [Atom Allocator](https://github.com/andrew-johnson-4/lm_skip_list_atom_allocator) (defined as a custom data structure)
   * [Cons Allocator](https://github.com/andrew-johnson-4/lm_generational_cons_allocator) (defined as a custom data structure)
 
-### Benchmarks are silly but we still do them (surprise surprise Dynamic Code is slow)
+### Benchmarks are silly but we still do them (yes Dynamic Code is slow)
 
 ![Fibonacci](https://raw.githubusercontent.com/andrew-johnson-4/andrew-johnson-4/4526fe38dc944656f65d2ba8bcb1f41ed10e58be/fib.svg)
