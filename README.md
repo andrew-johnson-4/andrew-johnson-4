@@ -7,7 +7,7 @@
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
 * ✓ [1.6.0 Production Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.6.0)
 * ✓ [1.10.0 Ad-Hoc Specialization and Macros](https://github.com/andrew-johnson-4/-/releases/tag/1.10.0)
-* Specialized Code / Data Representations (--strict mode)
+* 100% compiled code when --strict mode is enabled
   * direct .text .data fragments
   * default instruction set ( x86-64 )
   * Primitive Data Types (Int, Float, ...)
@@ -23,9 +23,6 @@
   * [Atom Allocator](https://github.com/andrew-johnson-4/lm_skip_list_atom_allocator) (defined as a custom data structure)
   * [Cons Allocator](https://github.com/andrew-johnson-4/lm_generational_cons_allocator) (defined as a custom data structure)
 
-### Request a Service
+### Benchmarks are silly but we still do them (surprise surprise Dynamic Code is slow)
 
-I build things for the web or your local computer. Have an idea? Feel free to reach out:
-* andrew[at]subarctic.org
-
-or just feel free to say hi! 👋
+![Fibonacci](https://raw.githubusercontent.com/andrew-johnson-4/andrew-johnson-4/4526fe38dc944656f65d2ba8bcb1f41ed10e58be/fib.svg)
