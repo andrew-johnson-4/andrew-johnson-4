@@ -7,7 +7,7 @@
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
 * ✓ [1.6.0 Production Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.6.0)
 * ✓ [1.10.0 Ad-Hoc Specialization and Macros](https://github.com/andrew-johnson-4/-/releases/tag/1.10.0)
-* Specialized Code / Data Representations
+* Specialized Code / Data Representations (--strict mode)
   * direct .text .data fragments
   * default instruction set ( x86-64 )
   * Primitive Data Types (Int, Float, ...)
