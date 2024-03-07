@@ -14,6 +14,7 @@
   * Operations on Primitive Types (+, -, /, ...)
   * Basic Data Structures: Structs, Tagged Unions
   * Specialized Explicit Context: Typesafe Register Allocation, Stack State, Heap State
+  * Container Types
   * Arbitrary Custom Data Structures (raw data fragment based definitions)
   * Arbitrary Custom Code Structures (raw code fragment based definitions)
   * Remove all S-Expression default types from compiler (enforce with --strict)
