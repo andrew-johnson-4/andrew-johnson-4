@@ -24,6 +24,6 @@
   * [Statically Unknown Size Allocator](https://github.com/andrew-johnson-4/lm_skip_list_atom_allocator) (defined as a custom data structure)
   * [Statically Known Size Allocator](https://github.com/andrew-johnson-4/lm_generational_cons_allocator) (defined as a custom data structure)
 
-### Benchmarks are silly but we still do them (yes Partially Dynamic Code is slow)
+### Benchmarks are silly but we still do them (comparable on dev branch now)
 
 ![Fibonacci](https://raw.githubusercontent.com/andrew-johnson-4/andrew-johnson-4/master/fibonacci.svg)
