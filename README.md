@@ -22,8 +22,8 @@
   * benchmark vs some other compilers (OCaml, Rust, C) 📈📈📈
   * don't generate code for unused functions
 * Garbage Collection
-  * [Statically Unknown Size Allocator](https://github.com/andrew-johnson-4/lm_skip_list_atom_allocator) (defined as a custom data structure)
-  * [Statically Known Size Allocator](https://github.com/andrew-johnson-4/lm_generational_cons_allocator) (defined as a custom data structure)
+  * [Statically Unknown Size Allocator](https://github.com/andrew-johnson-4/lm_skip_list_atom_allocator) (defined as a custom data structure, i.e library not intrinsic)
+  * [Statically Known Size Allocator](https://github.com/andrew-johnson-4/lm_generational_cons_allocator) (defined as a custom data structure, i.e. library not instrinsic)
 
 ### Benchmarks are silly but we still do them
 
