@@ -10,7 +10,7 @@
 * 100% compiled code when --strict mode is enabled
   * ✓ direct .text .data fragments (internal typing of fragments such as (ExpressionFragment( U8 in R8 ))
   * ✓ default instruction set ( x86-64 )
-  * Primitive Data Types (Int, Float, ...)
+  * ✓ Primitive Data Types (Int, Float, ...)
   * Operations on Primitive Types (+, -, /, ...)
   * Basic Data Structures: Structs, Tagged Unions
   * Specialized Explicit Context: Typesafe Register Allocation, Stack State, Heap State
