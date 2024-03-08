@@ -11,7 +11,7 @@
 * ✓ [1.10.0 Ad-Hoc Specialization and Hygienic Macros](https://github.com/andrew-johnson-4/-/releases/tag/1.10.0)
 * 100% compiled code when --strict mode is enabled
   * ✓ direct .text .data fragments (internal typing of fragments such as (ExpressionFragment( U8 in R8 ))
-  * default instruction set ( x86-64 )
+  * ✓ default instruction set ( x86-64 )
   * Primitive Data Types (Int, Float, ...)
   * Operations on Primitive Types (+, -, /, ...)
   * Basic Data Structures: Structs, Tagged Unions
