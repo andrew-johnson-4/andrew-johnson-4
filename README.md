@@ -11,8 +11,8 @@
   * ✓ direct .text .data fragments (internal typing of fragments such as (ExpressionFragment( U8 in R8 ))
   * ✓ default instruction set ( x86-64 )
   * ✓ Primitive Data Types (Int, Float, ...)
-  * Operations on Primitive Types (+, -, /, ...)
-  * Stack Variables are Just Fragments Too (Offset -> Fragment -> Destination)
+  * ✓ Operations on Primitive Types (+, -, /, ...)
+  * ✓ Stack Variables are Just Fragments Too (Offset -> Fragment -> Destination)
   * Basic Data Structures: Structs, Tagged Unions
   * Specialized Explicit Context: Typesafe Register Allocation, Stack State, Heap State
   * Container Types
