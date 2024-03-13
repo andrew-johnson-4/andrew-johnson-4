@@ -29,3 +29,4 @@
 ### Benchmarks are silly but we still do them
 
 ![Fibonacci](https://raw.githubusercontent.com/andrew-johnson-4/andrew-johnson-4/master/fibonacci.svg)
+A hand optimized version of this example takes 3612ms to calculate the 45th element with a fastcall calling convention.
