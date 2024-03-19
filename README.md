@@ -16,8 +16,8 @@
   * Basic Data Structures: Structs, Tagged Unions
   * Specialized Explicit Context: Typesafe Register Allocation, Stack State, Heap State
   * Container Types
-  * Arbitrary Custom Data Structures (raw data fragment based definitions)
-  * Arbitrary Custom Code Structures (raw code fragment based definitions)
+  * ✓ Arbitrary Custom Data Structures (raw data fragment based definitions)
+  * ✓ Arbitrary Custom Code Structures (raw code fragment based definitions)
   * Remove all S-Expression default types from compiler (enforce with --strict)
   * Named Accessors for Struct Types (.offset:Expr->Int), (set.offset:(Expr,Int)->Nil) (different functions have different calling conventions)
   * ✓ benchmark vs some other compilers (OCaml, Rust, C) 📈📈📈
