@@ -7,25 +7,9 @@
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
 * ✓ [1.6.0 Production Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.6.0)
 * ✓ [1.10.0 Ad-Hoc Specialization and Hygienic Macros](https://github.com/andrew-johnson-4/-/releases/tag/1.10.0)
-* 100% compiled code when --strict mode is enabled
-  * ✓ direct .text .data fragments (internal typing of fragments such as `U8+Reg8`)
-  * ✓ default instruction set ( x86-64 )
-  * ✓ Primitive Data Types (Int, Float, ...)
-  * ✓ Operations on Primitive Types (+, -, /, ...)
-  * ✓ Stack Variables are Just Fragments Too (Offset -> Fragment -> Destination)
-  * Basic Data Structures: Structs, Tagged Unions
-  * Specialized Explicit Context: Typesafe Register Allocation, Stack State, Heap State
-  * Container Types
-  * ✓ Arbitrary Custom Data Structures (raw data fragment based definitions)
-  * ✓ Arbitrary Custom Code Structures (raw code fragment based definitions)
-  * Remove all S-Expression default types from compiler (enforce with --strict)
-  * Named Accessors for Struct Types (.offset:Expr->Int), (set.offset:(Expr,Int)->Nil) (different functions have different calling conventions)
-  * ✓ benchmark vs some other compilers (OCaml, Rust, C) 📈📈📈
-  * don't generate code for unused functions
+* 100% compiled code in compiler
+  * Basic Data Structures: Structs, Tagged Unions, Container Types
   * malloc
-* Garbage Collection
-  * [Statically Unknown Size Allocator](https://github.com/andrew-johnson-4/lm_skip_list_atom_allocator) (defined as a custom data structure, i.e library not intrinsic)
-  * [Statically Known Size Allocator](https://github.com/andrew-johnson-4/lm_generational_cons_allocator) (defined as a custom data structure, i.e. library not instrinsic)
 
 ### Benchmarks are silly but we still do them (all optimizations turned on now)
 
