@@ -8,9 +8,10 @@
 * ✓ [1.6.0 Production Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.6.0)
 * ✓ [1.10.0 Ad-Hoc Specialization and Hygienic Macros](https://github.com/andrew-johnson-4/-/releases/tag/1.10.0)
 * 100% compiled code in compiler
-  * Basic Data Structures: Structs, Tagged Unions, Container Types
-  * Smart 'mov Semantics
+  * ✓ Basic Data Structures: Structs, Tagged Unions, Container Types
+  * ✓ Smart 'mov Semantics
   * malloc
+  * update compiler to use all strict typing
 
 ### Benchmarks are silly but we still do them (all optimizations turned on now)
 
