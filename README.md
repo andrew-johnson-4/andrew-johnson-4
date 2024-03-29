@@ -10,7 +10,7 @@
 * 100% compiled code in compiler
   * ✓ Basic Data Structures: Structs, Tagged Unions, Container Types
   * ✓ Smart 'mov Semantics
-  * malloc
+  * ✓ malloc
   * update compiler to use all strict typing
 
 ### Benchmarks are silly but we still do them (all optimizations turned on now)
