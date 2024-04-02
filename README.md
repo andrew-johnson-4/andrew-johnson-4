@@ -12,6 +12,7 @@
   * ✓ Smart 'mov Semantics
   * ✓ malloc
   * update compiler to use all strict typing
+  * publish [language standard](https://github.com/andrew-johnson-4/lambda-mountain/wiki/Unopinionated-Philosophy#standards) v1.0
 
 ### Benchmarks are silly but we still do them (all optimizations turned on now)
 
