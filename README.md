@@ -14,6 +14,8 @@
   * update compiler to use all strict typing
   * publish [language standard](https://github.com/andrew-johnson-4/lambda-mountain/wiki/Unopinionated-Philosophy#standards) v1.0
 
-### Benchmarks are silly but we still do them (all optimizations turned on now)
+### Request for Comment
 
-![Fibonacci](https://raw.githubusercontent.com/andrew-johnson-4/andrew-johnson-4/master/fibonacci.svg)
+If you feel like contributing to either LM or LSTS it would be enormously helpful to have anyone simply read a bit and ask a question. 
+The projects are starting to grow to a size where it is hard to understand where a curious learner might get stuck.
+
