@@ -12,6 +12,15 @@
   * ✓ Smart 'mov Semantics
   * ✓ malloc
   * update compiler to use all strict typing
+     * ✓ CLI.lm
+     * tokenize.lm
+     * parse.lm
+     * preprocess.lm
+     * typecheck.lm
+     * assemble.lm
+     * codegen.lm
+     * fragment.lm
+     * utility.lm
   * publish [language standard](https://github.com/andrew-johnson-4/lambda-mountain/wiki/Unopinionated-Philosophy#standards) v1.0
 
 ### Request for Comment
