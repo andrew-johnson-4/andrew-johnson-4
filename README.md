@@ -12,7 +12,7 @@
   * ✓ Smart 'mov Semantics
   * ✓ malloc
   * update compiler to use all strict typing
-     * ✓ CLI.lm
+     * ✓ [CLI.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/cli.lm)
      * tokenize.lm
      * parse.lm
      * preprocess.lm
