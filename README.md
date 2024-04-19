@@ -13,7 +13,7 @@
   * ✓ malloc
   * update compiler to use all strict typing
      * ✓ [cli.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/cli.lm)
-     * tokenize.lm
+     * ✓ [tokenize.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/tokenize.lm)
      * parse.lm
      * preprocess.lm
      * typecheck.lm
