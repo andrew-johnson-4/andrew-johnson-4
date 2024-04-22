@@ -7,7 +7,7 @@
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
 * ✓ [1.6.0 Production Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.6.0)
 * ✓ [1.10.0 Ad-Hoc Specialization and Hygienic Macros](https://github.com/andrew-johnson-4/-/releases/tag/1.10.0)
-* 100% compiled code in compiler
+* 100% compiled code in compiler / somewhat stable compiler / somewhat stable language standard
   * ✓ Basic Data Structures: Structs, Tagged Unions, Container Types
   * ✓ Smart 'mov Semantics
   * ✓ malloc
