@@ -8,20 +8,16 @@
 * ✓ [1.6.0 Production Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.6.0)
 * ✓ [1.10.0 Ad-Hoc Specialization and Hygienic Macros](https://github.com/andrew-johnson-4/-/releases/tag/1.10.0)
 * 100% compiled code in compiler / somewhat stable compiler / somewhat stable language standard
-  * ✓ Basic Data Structures: Structs, Tagged Unions, Container Types
-  * ✓ Smart 'mov Semantics
-  * ✓ malloc
-  * update compiler to use all strict typing
-     * ✓ [cli.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/cli.lm)
-     * ✓ [tokenize.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/tokenize.lm)
-     * parse.lm
-     * preprocess.lm
-     * typecheck.lm
-     * assemble.lm
-     * codegen.lm
-     * fragment.lm
-     * utility.lm
-  * publish [language standard](https://github.com/andrew-johnson-4/lambda-mountain/wiki/Unopinionated-Philosophy#standards) v1.0
+  * ✓ [cli.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/cli.lm)
+  * ✓ [tokenize.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/tokenize.lm)
+  * ✓ [parse.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/parse.lm)
+  * preprocess.lm
+  * typecheck.lm
+  * assemble.lm
+  * codegen.lm
+  * fragment.lm
+  * utility.lm
+* publish [language standard](https://github.com/andrew-johnson-4/lambda-mountain/wiki/Unopinionated-Philosophy#standards) v1.0
 
 ### Request for Comment
 
