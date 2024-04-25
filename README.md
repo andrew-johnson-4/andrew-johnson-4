@@ -11,7 +11,7 @@
   * ✓ [cli.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/cli.lm)
   * ✓ [tokenize.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/tokenize.lm)
   * ✓ [parse.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/parse.lm)
-  * preprocess.lm
+  * ✓ [preprocess.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/preprocess.lm)
   * typecheck.lm
   * assemble.lm
   * codegen.lm
