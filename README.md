@@ -19,6 +19,10 @@
   * ✓ [utility.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/utility.lm)
 * publish [language standard](https://github.com/andrew-johnson-4/lambda-mountain/wiki/Unopinionated-Philosophy#standards) v1.0
 
+### Upcoming Planned Features
+
+* arbitrary sized return values
+
 ### Request for Comment
 
 If you feel like contributing to either LM or LSTS it would be enormously helpful to have anyone simply read a bit and ask a question. 
