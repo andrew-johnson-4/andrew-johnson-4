@@ -21,6 +21,7 @@
 
 ### Upcoming Planned Features
 
+* actually useful errors messages with code snippetss and source location
 * arbitrary sized return values
 
 ### Request for Comment
