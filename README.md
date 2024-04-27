@@ -21,7 +21,7 @@
 
 ### Upcoming Planned Features
 
-* actually useful errors messages with code snippetss and source location
+* actually useful errors messages with code snippetss and source location (mostly working on strict compiler)
 * arbitrary sized return values
 
 ### Request for Comment
