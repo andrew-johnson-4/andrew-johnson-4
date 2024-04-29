@@ -23,6 +23,7 @@
 
 * actually useful errors messages with code snippets and source location (mostly working on strict compiler)
 * arbitrary sized return values
+* parametric polymorphism 
 
 ### Request for Comment
 
