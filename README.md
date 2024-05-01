@@ -13,7 +13,7 @@
   * ✓ [parse.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/parse.lm)
   * ✓ [preprocess.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/preprocess.lm)
   * ✓ [typecheck.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/typecheck.lm)
-  * assemble.lm
+  * ✓ [assemble.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/assemble.lm)
   * codegen.lm
   * fragment.lm
   * ✓ [utility.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/utility.lm)
