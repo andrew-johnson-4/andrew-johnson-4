@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> All things considered... copy and paste is probably the best option.
+> Calculus classes should be replaced with Computable Functions. CFs are more academically interesting, more useful, and easier to learn.
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
