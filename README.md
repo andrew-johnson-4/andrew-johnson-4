@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Calculus classes should be replaced with Computable Functions. CFs are more academically interesting, more useful, and easier to learn.
+> Computer Science is the study of Computable Functions.
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
