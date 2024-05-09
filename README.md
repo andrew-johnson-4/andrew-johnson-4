@@ -1,6 +1,8 @@
 # Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Computer Science is the study of Computable Functions.
+> One of the most popular apps on phones are timers.
+> The user already knows that they need to remember something but they still want to be reminded.
+> *Assisted Reasoning* is sort of like that: a tea-timer for logic.
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
