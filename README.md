@@ -15,7 +15,7 @@
   * ✓ [typecheck.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/typecheck.lm)
   * ✓ [assemble.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/assemble.lm)
   * codegen.lm
-  * fragment.lm
+  * ✓ [fragment.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/fragment.lm)
   * ✓ [utility.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/utility.lm)
 * publish [language standard](https://github.com/andrew-johnson-4/lambda-mountain/wiki/Unopinionated-Philosophy#standards) v1.0
 
