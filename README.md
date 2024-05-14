@@ -23,7 +23,8 @@
 
 * actually useful errors messages with code snippets and source location (working on strict compiler)
 * arbitrary sized return values
-* parametric polymorphism 
+* parametric polymorphism
+* sub 5s compile times
 
 ### Request for Comment
 
