@@ -26,6 +26,7 @@
 * parametric polymorphism
 * sub 5s compile times
 * back towards 3000 SLOC from current 5000 SLOC (more features means less code somehow)
+* self-optimizing data structures (farewell hashmap)
 
 ### Request for Comment
 
