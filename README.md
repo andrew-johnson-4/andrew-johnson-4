@@ -25,6 +25,7 @@
 * arbitrary sized return values
 * parametric polymorphism
 * sub 5s compile times
+* back towards 3000 SLOC from current 5000 SLOC (more features means less code somehow)
 
 ### Request for Comment
 
