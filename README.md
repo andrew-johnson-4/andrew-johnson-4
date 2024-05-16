@@ -14,10 +14,10 @@
   * ✓ [preprocess.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/preprocess.lm)
   * ✓ [typecheck.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/typecheck.lm)
   * ✓ [assemble.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/assemble.lm)
-  * codegen.lm
+  * ✓ [codegen.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/codegen.lm)
   * ✓ [fragment.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/fragment.lm)
   * ✓ [utility.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/utility.lm)
-  * [bootstrapping the stable compiler](https://github.com/andrew-johnson-4/lambda-mountain/issues/282)
+  * [bootstrap the new stable compiler](https://github.com/andrew-johnson-4/lambda-mountain/issues/282)
 * publish [language standard](https://github.com/andrew-johnson-4/lambda-mountain/wiki/Unopinionated-Philosophy#standards) v1.0
 
 ### Upcoming Planned Features
