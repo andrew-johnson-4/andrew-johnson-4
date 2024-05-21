@@ -19,6 +19,8 @@
   * ✓ [utility.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/utility.lm)
   * [bootstrap the new stable compiler](https://github.com/andrew-johnson-4/lambda-mountain/issues/282)
 * publish [language standard](https://github.com/andrew-johnson-4/lambda-mountain/wiki/Unopinionated-Philosophy#standards) v1.0
+  * start removing anything that is hard-coded in the compiler
+  * use apply / chain / implicit context / type-context instead
 
 ### Upcoming Planned Features
 
