@@ -21,6 +21,7 @@
 * publish [language standard](https://github.com/andrew-johnson-4/lambda-mountain/wiki/Unopinionated-Philosophy#standards) v1.0
   * start removing anything that is hard-coded in the compiler
   * use apply / chain / implicit context / type-context instead
+  * add support for something other than x86-64 (be honest)
 
 ### Upcoming Planned Features
 
