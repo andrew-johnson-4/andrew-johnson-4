@@ -28,7 +28,7 @@
 * actually useful errors messages with code snippets and source location (working on strict compiler)
 * arbitrary sized return values (should provide a decent speed up)
 * parametric polymorphism
-* sub 5s compile times (doing math on S-Expressions instead of integers is slow...)
+* sub 5s compile times (log vs linear)
 * back towards 3000 SLOC from current 5000 SLOC (more features means less code somehow)
 * metric specialization for data structures (farewell hashmap)
 
