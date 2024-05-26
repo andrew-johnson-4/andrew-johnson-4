@@ -17,7 +17,7 @@
 
 * arbitrary sized return values (should provide a decent speed up)
 * parametric polymorphism
-* sub 5s compile times (log vs linear)
+* sub 5s compile times (some data structures are linear when they could be log)
 * back towards 3000 SLOC from current 5000 SLOC (more features means less code somehow)
 
 ### Request for Comment
