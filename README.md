@@ -4,20 +4,10 @@
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
-* ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.0.0) 🥳🎉🎁
-* ✓ [1.6.0 Production Compiler](https://github.com/andrew-johnson-4/-/releases/tag/1.6.0)
-* ✓ [1.10.0 Ad-Hoc Specialization and Hygienic Macros](https://github.com/andrew-johnson-4/-/releases/tag/1.10.0)
-* 100% compiled code in compiler / somewhat stable compiler / somewhat stable language standard
-  * ✓ [cli.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/cli.lm)
-  * ✓ [tokenize.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/tokenize.lm)
-  * ✓ [parse.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/parse.lm)
-  * ✓ [preprocess.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/preprocess.lm)
-  * ✓ [typecheck.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/typecheck.lm)
-  * ✓ [assemble.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/assemble.lm)
-  * ✓ [codegen.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/codegen.lm)
-  * ✓ [fragment.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/fragment.lm)
-  * ✓ [utility.lm](https://github.com/andrew-johnson-4/lambda-mountain/blob/main/STRICT/utility.lm)
-  * [bootstrap the new stable compiler](https://github.com/andrew-johnson-4/lambda-mountain/issues/282)
+* ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.0.0) 🥳🎉🎁
+* ✓ [1.6.0 Production Compiler](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.6.0)
+* ✓ [1.10.0 Ad-Hoc Specialization and Hygienic Macros](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.10.0)
+* ✓ [1.13.0 100% compiled code in compiler](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.13.0)
 * publish [language standard](https://github.com/andrew-johnson-4/lambda-mountain/wiki/Unopinionated-Philosophy#standards) v1.0
   * start removing anything that is hard-coded in the compiler
   * use apply / chain / implicit context / type-context instead
@@ -25,12 +15,10 @@
 
 ### Upcoming Planned Features
 
-* actually useful errors messages with code snippets and source location (working on strict compiler)
 * arbitrary sized return values (should provide a decent speed up)
 * parametric polymorphism
 * sub 5s compile times (log vs linear)
 * back towards 3000 SLOC from current 5000 SLOC (more features means less code somehow)
-* metric specialization for data structures (farewell hashmap)
 
 ### Request for Comment
 
