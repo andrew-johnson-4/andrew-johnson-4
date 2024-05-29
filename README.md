@@ -14,8 +14,6 @@
   * add support for something other than x86-64 (be honest)
 
 ### Upcoming Planned Features
-
-* arbitrary sized return values (should provide a decent speed up)
 * parametric polymorphism
 * back towards 3000 SLOC from current 5000 SLOC (more features means less code somehow)
 
