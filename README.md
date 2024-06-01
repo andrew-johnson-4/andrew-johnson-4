@@ -10,12 +10,12 @@
 * ✓ [1.13.0 100% compiled code in compiler](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.13.0)
 * publish [language standard](https://github.com/andrew-johnson-4/lambda-mountain/wiki/Unopinionated-Philosophy#standards) v1.0
   * start removing anything that is hard-coded in the compiler
-  * use apply / chain / implicit context / type-context instead
   * add support for something other than x86-64
 
 ### Upcoming Planned Features
 * [decent regression tests to remove hard corners](https://github.com/andrew-johnson-4/lambda-mountain/issues/421)
 * parametric polymorphism
+* apply / chain / implicit context / type-context
 * back towards 3000 SLOC from current 5000 SLOC (more features means less code somehow)
 
 ### Request for Comment
