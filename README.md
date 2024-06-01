@@ -13,7 +13,6 @@
   * add support for something other than x86-64
 
 ### Upcoming Planned Features
-* parametric functions
 * parametric data
 * apply / chain / implicit context / type-context
 
