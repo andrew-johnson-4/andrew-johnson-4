@@ -13,10 +13,8 @@
   * add support for something other than x86-64
 
 ### Upcoming Planned Features
-* [decent regression tests to remove hard corners](https://github.com/andrew-johnson-4/lambda-mountain/issues/421)
 * parametric polymorphism
 * apply / chain / implicit context / type-context
-* back towards 3000 SLOC from current 5000 SLOC (more features means less code somehow)
 
 ### Request for Comment
 
