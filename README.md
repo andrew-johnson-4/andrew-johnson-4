@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Regular Exercise and Healthy Diet are the Prolonged Life Tax. Make Sure to Take Care of Yourself!
+> Most things in life are vulnerable to timing attacks.
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
