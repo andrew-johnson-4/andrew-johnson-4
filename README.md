@@ -1,6 +1,6 @@
 # Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Most things in life are vulnerable to timing attacks.
+> Make sure to drink plenty of water, not just coffee and tea.
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
