@@ -13,8 +13,10 @@
   * start removing anything that is hard-coded in the compiler
   * add support for something other than x86-64
 
+
 ### Upcoming Planned Features
 * apply / chain / implicit context / type-context
+* ANSI C Frontend
 
 ### Request for Comment
 
