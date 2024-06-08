@@ -12,13 +12,13 @@
   * stabilize compiler internals [loading 10%|■■__________________]
   * start removing anything that is hard-coded in the compiler
   * add support for something other than x86-64
-  * ANSI C Frontend
-  * LSTS Frontend
+    
 
 
 ### Upcoming Planned Features
 * apply / chain / implicit context / type-context
 * ANSI C Frontend
+* LSTS Frontend
 
 ### Request for Comment
 
