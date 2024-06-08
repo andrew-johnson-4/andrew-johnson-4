@@ -1,4 +1,4 @@
-6# Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
+## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
 > Make sure to drink plenty of water, not just coffee and tea.
 
