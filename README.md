@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> When I say software is in a bad state, no one believes me. We don't have this figured out yet.
+> There is a tradeoff made when choosing alphabet size (token space). More symbols requires more training and memorization. Fewer symbols requires more inference.
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
