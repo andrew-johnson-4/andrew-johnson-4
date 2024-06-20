@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Make sure to drink plenty of water, not just coffee and tea.
+> When I say software is in a bad state, no one believes me. We don't have this figured out yet.
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
