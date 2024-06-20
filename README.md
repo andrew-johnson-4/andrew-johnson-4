@@ -2,7 +2,7 @@
 
 > There is a tradeoff made when choosing alphabet size (token space). More symbols requires more training and memorization. Fewer symbols requires more inference.
 >
-> For control systems I prefer a 12 symbol alphabet which is surprisingly diverse.
+> For control systems I prefer a 12 symbol alphabet which can be surprisingly diverse.
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
