@@ -22,10 +22,3 @@
 * ANSI C Frontend
 * LSTS Frontend
 
-### Request for Comment
-
-If you feel like contributing to either LM or LSTS it would be enormously helpful to have anyone simply read a bit and ask a question. 
-The projects are starting to grow to a size where it is hard to understand where a curious learner might get stuck.
-Different people have different backgrounds so it takes all shapes and sizes.
-Everyone is welcome, though I fear that the learning curves are still very steep.
-
