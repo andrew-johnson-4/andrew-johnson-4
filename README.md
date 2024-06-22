@@ -1,9 +1,5 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> There is a tradeoff made when choosing alphabet size (token space). More symbols requires more training and memorization. Fewer symbols requires more inference.
->
-> For control systems, alphabets as low as 12 symbols are still surprisingly useful.
-
 ### 2024 Roadmap (Working towards a verified kernel language)
 
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.0.0) 🥳🎉🎁
