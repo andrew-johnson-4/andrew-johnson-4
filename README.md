@@ -6,7 +6,7 @@
 * ✓ [1.6.0 Production Compiler](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.6.0)
 * ✓ [1.10.0 Ad-Hoc Specialization and Hygienic Macros](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.10.0)
 * ✓ [1.13.0 100% compiled code in compiler](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.13.0)
-* ✓ [1.14.0 full, well-tested support for parametric code and data](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.14.0)
+* ✓ [1.14.0 parametric code and data](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.14.0)
 * publish [language standard](https://github.com/andrew-johnson-4/lambda-mountain/wiki/Unopinionated-Philosophy#standards) v1.0
   * stabilize compiler internals `[loading 60%|■■■■■■■■■■■_________]`
   * start removing anything that is hard-coded in the compiler
