@@ -1,5 +1,8 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
+> It has only been roughly 50 years since jogging was effectively legalized in the United States.
+> Previously it was criminally suspicous to run in public because the only logical reason to run would be to flee the scene of a crime.
+
 ### 2024 Roadmap (Working towards a verified kernel language)
 
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.0.0) 🥳🎉🎁
