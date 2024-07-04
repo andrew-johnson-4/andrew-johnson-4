@@ -8,7 +8,7 @@
 * ✓ [1.13.0 100% compiled code in compiler](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.13.0)
 * ✓ [1.14.0 parametric code and data](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.14.0)
 * publish [language standard](https://github.com/andrew-johnson-4/lambda-mountain/wiki/Unopinionated-Philosophy#standards) v1.0
-  * stabilize compiler internals `[loading 60%|■■■■■■■■■■■_________]`
+  * stabilize compiler internals `[loading 65%|■■■■■■■■■■■■________]`
   * start removing anything that is hard-coded in the compiler
   * add support for something other than x86-64
 
