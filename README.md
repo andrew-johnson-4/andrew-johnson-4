@@ -10,7 +10,6 @@
 ### Upcoming Planned Features
 * stabilize compiler internals `[loading 84%|■■■■■■■■■■■■■■■■____]`
 * add support for something other than x86-64 Linux
-* apply / chain / implicit context / type-context
 * ANSI C Frontend
 * LSTS Frontend
 
