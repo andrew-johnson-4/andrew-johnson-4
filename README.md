@@ -10,7 +10,6 @@
 * ✓ [1.15.0 9s bootstrap compile time (down from 25 minutes)](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.15.0)
 
 ### Upcoming Planned Features
-* stabilize compiler internals `[loading 84%|■■■■■■■■■■■■■■■■____]`
 * add support for something other than x86-64 Linux
 * ANSI C Frontend
 * LSTS Frontend
