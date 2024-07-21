@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> 1+1=2 is either a convention or an observation. For me it is convention reinforced by repeated observation.
+> 1+1=2 is either a convention or an observation. For me it is convention with applications reinforced by repeated observation.
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
