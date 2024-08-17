@@ -1,8 +1,8 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> It is often possible to use a tool effectively without understanding how to manufacture that tool.
+> Physics is the study of observation as ground truth.
 >
-> Conversely, it is also possible to manufacture a tool without understanding how it would be used.
+> Mathematics is the study of definition as ground truth.
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
