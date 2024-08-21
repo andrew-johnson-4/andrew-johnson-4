@@ -1,6 +1,8 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> The mountains are tall and the emperor is far away.
+> Mathematics is the study of definition as ground truth.
+>
+> Physics is the study of observation as ground truth.
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
