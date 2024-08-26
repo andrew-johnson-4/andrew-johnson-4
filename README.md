@@ -1,8 +1,6 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Mathematics is the study of definition as ground truth.
->
-> Physics is the study of observation as ground truth.
+> Prove it.
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
