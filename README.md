@@ -11,6 +11,7 @@
 
 ### Reading
 
+* [A Brief Introduction To Programming In LM](https://andrewjohnson4.substack.com/p/a-brief-introduction-to-programming)
 * [Most Opcodes Are Typesafe If Memory Is Infinite](https://andrewjohnson4.substack.com/p/most-opcodes-are-typesafe-if-memory)
 
 ### Upcoming Planned Features
