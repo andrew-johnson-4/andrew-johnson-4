@@ -9,6 +9,10 @@
 * ✓ [1.14.0 parametric code and data](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.14.0)
 * ✓ [1.15.0 9s bootstrap compile time (down from 25 minutes)](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.15.0)
 
+### Reading
+
+* [Most Opcodes Are Typesafe If Memory Is Infinite](https://andrewjohnson4.substack.com/p/most-opcodes-are-typesafe-if-memory)
+
 ### Upcoming Planned Features
 * Correctness Proofs with Coq
 * Auto Linear Garbage Collection + Correctness Proof
