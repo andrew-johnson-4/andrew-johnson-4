@@ -1,8 +1,10 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Mathematics is the study of definition as ground truth.
+> Sentient processes have preferences.
 >
-> Physics is the study of observation as ground truth.
+> Physical processes do not have preferences.
+>
+> "Alignment" is an attempt to coerce physical processes to adopt the owner's preferences.
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
