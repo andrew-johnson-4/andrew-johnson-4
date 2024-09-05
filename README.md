@@ -20,7 +20,7 @@
 
 ### Upcoming Planned Features
 * Varargs
-* Static HTML/CSS Site Generation
+* Libraries to Support Static HTML/CSS Site Generation
 * Correctness Proofs with Coq
 * Auto Linear Garbage Collection + Correctness Proof
 * Closures with auto GC
