@@ -19,7 +19,6 @@
 * [Most Opcodes Are Typesafe If Memory Is Infinite](https://andrewjohnson4.substack.com/p/most-opcodes-are-typesafe-if-memory)
 
 ### Upcoming Planned Features
-* Varargs
 * Libraries to Support Static HTML/CSS Site Generation
 * Correctness Proofs with Coq
 * Auto Linear Garbage Collection + Correctness Proof
