@@ -19,10 +19,9 @@
 * [Most Opcodes Are Typesafe If Memory Is Infinite](https://andrewjohnson4.substack.com/p/most-opcodes-are-typesafe-if-memory)
 
 ### Upcoming Planned Features
-* Libraries to Support Static HTML/CSS Site Generation
-* Correctness Proofs with Coq
-* Auto Linear Garbage Collection + Correctness Proof
+* Linear Garbage Collection
 * Closures with auto GC
+* Correctness Proofs with Coq
 * add support for something other than x86-64 Linux
 * LSTS Frontend
 
