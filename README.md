@@ -1,10 +1,6 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Sentient processes have preferences.
->
-> Physical processes do not have preferences.
->
-> "Alignment" is an attempt to coerce physical processes to adopt the owner's preferences.
+> Cache hits are surprisingly fast.
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
