@@ -14,7 +14,7 @@
 * [Most Opcodes Are Typesafe If Memory Is Infinite](https://andrewjohnson4.substack.com/p/most-opcodes-are-typesafe-if-memory)
 
 ### Upcoming Planned Features
-* Language Standard v1.0 (finally some stable interfaces)
+* Language Standard v1.0 (finally some stable interfaces like libc compatible malloc etc.)
 * Linear Garbage Collection
 * Closures with auto GC
 * Correctness Proofs with Coq
