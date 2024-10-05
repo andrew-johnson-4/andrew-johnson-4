@@ -18,7 +18,7 @@
 * Language Standard v1.0 (finally some stable interfaces like libc compatible malloc etc.)
 * Linear Garbage Collection
 * Closures with auto GC
-* Correctness Proofs with Coq
+* Correctness Proofs with Coq (100% verifiable semantics)
 * add support for something other than x86-64 Linux
 * LSTS Frontend
 
