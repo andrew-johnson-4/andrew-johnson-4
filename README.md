@@ -1,8 +1,6 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Intellectual humility is valuable;
-> just because someone doesn't know everything that you know
-> doesn't mean that they don’t know something that you don't know.
+> Type theory is the study of languages of the form “For as long as these axioms hold True, no well-formed statement will become False.”
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
