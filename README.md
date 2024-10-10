@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Type Theory is the study of languages of the form “For as long as these axioms hold True, no well-formed statement will become False.”
+> Type Theory is the study of languages of the form “For as long as these axioms hold True, no well-typed statement will become False.”
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
