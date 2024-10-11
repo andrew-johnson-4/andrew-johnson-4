@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Autoregressive LLMS are functionally equivalent to muscle memory.
+> Autoregressive LLMs are functionally equivalent to muscle memory.
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
