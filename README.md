@@ -5,8 +5,8 @@
 ### 2024 Roadmap (Working towards a verified kernel language)
 
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.0.0) 🥳🎉🎁
-* ✓ [1.16.0 HTML CSS WASM support](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.16.0)
 * ✓ [1.17.0 Typed Fragments (about 2/3 way to fully verifiable semantics)](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.17.0)
+* ✓ [1.18.0 C11 backend](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.18.0) 
 
 ### Reading
 
