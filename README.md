@@ -6,7 +6,7 @@
 
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.0.0) 🥳🎉🎁
 * ✓ [1.17.0 Typed Fragments (about 2/3 way to fully verifiable semantics)](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.17.0)
-* ✓ [1.18.0 ANSI C backend](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.18.0) 
+* ✓ [1.18.0 ISO C 2011 backend](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.18.0) 
 
 ### Reading
 
