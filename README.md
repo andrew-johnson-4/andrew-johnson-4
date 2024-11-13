@@ -19,5 +19,4 @@
 * Linear Garbage Collection
 * Closures with auto GC
 * Correctness Proofs with Coq (100% verifiable semantics)
-* LSTS Frontend
 
