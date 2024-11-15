@@ -13,6 +13,7 @@
 
 * [Most Opcodes Are Typesafe If Memory Is Infinite](https://andrewjohnson4.substack.com/p/most-opcodes-are-typesafe-if-memory)
 * [Comparing Haskell Type Classes to Simple Specialization](https://andrewjohnson4.substack.com/p/comparing-haskell-type-classes-to)
+* [What is the difference between a C String, a Smart String, and a Rope?](https://andrewjohnson4.substack.com/p/what-is-the-different-between-a-c)
 
 ### Upcoming Planned Features
 * Language Standard v1.0 (finally some stable interfaces like libc compatible malloc etc.)
