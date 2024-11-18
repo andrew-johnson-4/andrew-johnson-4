@@ -2,6 +2,10 @@
 
 > One man's bug is another man's feature.
 
+### LSTS Code Examples
+
+* [LSTS Tokenizer](https://andrewjohnson4.substack.com/p/lsts-pearl-writing-a-tokenizer)
+
 ### 2024 Roadmap (Working towards a verified kernel language)
 
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.0.0) 🥳🎉🎁
