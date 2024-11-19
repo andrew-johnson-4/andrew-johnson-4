@@ -21,7 +21,7 @@
 
 ### Upcoming Planned Features
 * rewrite compiler internals in LSTS (focus on how things should be, rather than how things are)
-* Language Standard v1.0 (finally some stable interfaces like libc compatible malloc etc.)
+* Language Standard v1.0
 * Linear Garbage Collection
 * Closures with auto GC
 * Correctness Proofs with Coq (100% verifiable semantics)
