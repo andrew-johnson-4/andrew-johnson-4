@@ -21,6 +21,7 @@
 
 ### Upcoming Planned Features
 * rewrite compiler internals in LSTS (focus on how things should be, rather than how things are)
+  * some of the internal APIs can be stabilized, just written with a different syntax
 * Language Standard v1.0
 * Linear Garbage Collection
 * Closures with auto GC
