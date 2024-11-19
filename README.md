@@ -20,6 +20,7 @@
 * [What is the difference between a C String, a Smart String, and a Rope?](https://andrewjohnson4.substack.com/p/what-is-the-different-between-a-c)
 
 ### Upcoming Planned Features
+* rewrite compiler internals in LSTS (focus on how things should be, rather than how things are)
 * Language Standard v1.0 (finally some stable interfaces like libc compatible malloc etc.)
 * Linear Garbage Collection
 * Closures with auto GC
