@@ -5,7 +5,7 @@
 ### LSTS Code Examples
 
 * [LSTS Tokenizer](https://andrewjohnson4.substack.com/p/lsts-pearl-writing-a-tokenizer)
-* [Have Your Nominal Type And Structurally Type It Too](https://andrewjohnson4.substack.com/p/have-your-nominal-type-and-structurally)
+* [Propositional Types, Corollaries, and Quick-Props](https://andrewjohnson4.substack.com/p/have-your-nominal-type-and-structurally)
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
