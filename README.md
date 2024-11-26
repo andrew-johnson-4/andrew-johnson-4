@@ -24,6 +24,6 @@
   * some of the internal APIs can be stabilized, just written with a different syntax
 * Language Standard v1.0
 * Linear Garbage Collection
-* Closures with auto GC
+* Representation Selection for Closures with auto GC
 * Correctness Proofs with Coq (100% verifiable semantics)
 
