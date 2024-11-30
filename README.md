@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> One man's bug is another man's feature.
+> Slow life. Fast code.
 
 ### LSTS Code Examples
 
