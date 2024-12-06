@@ -6,6 +6,7 @@
 
 * [LSTS Tokenizer](https://andrewjohnson4.substack.com/p/lsts-pearl-writing-a-tokenizer)
 * [Propositional Types, Corollaries, and Quick-Props](https://andrewjohnson4.substack.com/p/have-your-nominal-type-and-structurally)
+* [Linear Types or Phi Types: which to choose?](https://andrewjohnson4.substack.com/p/linear-types-or-phi-types-which-to)
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
@@ -18,7 +19,6 @@
 * [Most Opcodes Are Typesafe If Memory Is Infinite](https://andrewjohnson4.substack.com/p/most-opcodes-are-typesafe-if-memory)
 * [Comparing Haskell Type Classes to Simple Specialization](https://andrewjohnson4.substack.com/p/comparing-haskell-type-classes-to)
 * [What is the difference between a C String, a Smart String, and a Rope?](https://andrewjohnson4.substack.com/p/what-is-the-different-between-a-c)
-* [Linear Types or Phi Types: which to choose?](https://andrewjohnson4.substack.com/p/linear-types-or-phi-types-which-to)
 
 ### Upcoming Planned Features
 * rewrite compiler internals in LSTS (focus on how things should be, rather than how things are)
