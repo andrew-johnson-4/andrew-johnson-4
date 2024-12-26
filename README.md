@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Slow life. Fast code.
+> Once a bug has been documented, it becomes a feature.
 
 ### LSTS Code Examples
 
