@@ -6,7 +6,7 @@
 
 * [LSTS Tokenizer](https://andrewjohnson4.substack.com/p/lsts-pearl-writing-a-tokenizer)
 * [Propositional Types, Corollaries, and Quick-Props](https://andrewjohnson4.substack.com/p/have-your-nominal-type-and-structurally)
-* [Linear Types or Phi Types: which to choose?](https://andrewjohnson4.substack.com/p/linear-types-or-phi-types-which-to)
+* [Advanced Topics: Phi Types](https://github.com/andrew-johnson-4/LSTS/wiki/Phi-Types)
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
