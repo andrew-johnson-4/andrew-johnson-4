@@ -5,7 +5,7 @@
 ### LSTS Code Examples
 
 * [LSTS Tokenizer](https://andrewjohnson4.substack.com/p/lsts-pearl-writing-a-tokenizer)
-* [Propositional Types, Corollaries, and Quick-Props]((https://github.com/andrew-johnson-4/LSTS/wiki/Propositional-Types)
+* [Advanced Topics: Propositional Types, Corollaries, and Quick-Props](https://github.com/andrew-johnson-4/LSTS/wiki/Propositional-Types)
 * [Advanced Topics: Phi Types](https://github.com/andrew-johnson-4/LSTS/wiki/Phi-Types)
 
 ### 2024 Roadmap (Working towards a verified kernel language)
