@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Once a bug has been documented, it becomes a feature.
+> Carving is easy, you just go down to the skin and stop.
 
 ### LSTS Code Examples
 
