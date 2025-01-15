@@ -4,23 +4,13 @@
 >
 > -- Michelangelo
 
-### LSTS Code Examples
-
-* [LSTS Tokenizer](https://andrewjohnson4.substack.com/p/lsts-pearl-writing-a-tokenizer)
-* [Advanced Topics: Propositional Types, Corollaries, and Quick-Props](https://github.com/andrew-johnson-4/LSTS/wiki/Propositional-Types)
-* [Advanced Topics: Phi Types](https://github.com/andrew-johnson-4/LSTS/wiki/Phi-Types)
+### [LSTS Examples & Documentation](https://andrew-johnson-4.github.io/lsts-language-reference/)
 
 ### 2024 Roadmap (Working towards a verified kernel language)
 
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.0.0) 🥳🎉🎁
 * ✓ [1.19.0 Basic support for LSTS syntax](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.19.1)
 * ✓ [1.20.0 Phi Types](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.20.0)
-
-### Reading
-
-* [Most Opcodes Are Typesafe If Memory Is Infinite](https://andrewjohnson4.substack.com/p/most-opcodes-are-typesafe-if-memory)
-* [Comparing Haskell Type Classes to Simple Specialization](https://andrewjohnson4.substack.com/p/comparing-haskell-type-classes-to)
-* [What is the difference between a C String, a Smart String, and a Rope?](https://andrewjohnson4.substack.com/p/what-is-the-different-between-a-c)
 
 ### Work-Order Priorities
 
