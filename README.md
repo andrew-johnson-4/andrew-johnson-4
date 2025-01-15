@@ -22,7 +22,7 @@
 * [Comparing Haskell Type Classes to Simple Specialization](https://andrewjohnson4.substack.com/p/comparing-haskell-type-classes-to)
 * [What is the difference between a C String, a Smart String, and a Rope?](https://andrewjohnson4.substack.com/p/what-is-the-different-between-a-c)
 
-### Priorities
+### Work-Order Priorities
 
 Now having completed new feature capacity to handle complex data structures like Umbra Strings,
 the compiler is long overdue for some housekeeping.
