@@ -22,6 +22,14 @@
 * [Comparing Haskell Type Classes to Simple Specialization](https://andrewjohnson4.substack.com/p/comparing-haskell-type-classes-to)
 * [What is the difference between a C String, a Smart String, and a Rope?](https://andrewjohnson4.substack.com/p/what-is-the-different-between-a-c)
 
+### Priorities
+
+Now having completed new feature capacity to handle complex data structures like Umbra Strings,
+the compiler is long overdue for some housekeeping.
+The feature set will therefore be frozen for a while to spend some time on compiler internals.
+* breaking compiler into independent compilation units with unit tests
+* improving performance with high-level and low-level optimizations
+
 ### Upcoming Planned Features
 * rewrite compiler internals in LSTS (focus on how things should be, rather than how things are)
   * some of the internal APIs can be stabilized, just written with a different syntax
