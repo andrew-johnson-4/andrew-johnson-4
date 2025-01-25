@@ -27,5 +27,4 @@ The feature set will therefore be frozen for a while to spend some time on compi
 * Linear Garbage Collection
    * this is a library, not a core feature (it just depends on linear/phi-types with del hooks)
 * Representation Selection for Closures with auto GC
-* Correctness Proofs with Coq (100% verifiable semantics)
 
