@@ -22,7 +22,7 @@ The feature set will therefore be frozen for a while to spend some time on compi
 
 ### Upcoming Planned Features
 * rewrite compiler internals in LSTS (focus on how things should be, rather than how things are)
-  * some of the internal APIs can be stabilized, just written with a different syntax
+  * some of the internal APIs can be stabilized
 * Language Standard v1.0
 * Linear Garbage Collection
    * this is a library, not a core feature (it just depends on linear/phi-types with del hooks)
