@@ -1,8 +1,9 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Carving is easy, you just go down to the skin and stop.
+> Statistically interpreting natural language is like following signs to get to a destination.
+> There are lots of signs pointing in different directions and many places that you might want to go.
 >
-> -- Michelangelo
+> Improving natural language processing then takes two forms: better navigation and better signage.
 
 ### [LSTS Examples & Documentation](https://andrew-johnson-4.github.io/lsts-language-reference/)
 
