@@ -1,9 +1,6 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Statistically interpreting natural language is like following signs to get to a destination.
-> There are lots of signs pointing in different directions and many places that you might want to go.
->
-> Improving natural language processing then takes two forms: better navigation and better signage.
+> Once a bug gets documented, then it becomes a feature.
 
 ### [LSTS Examples & Documentation](https://andrew-johnson-4.github.io/lsts-language-reference/)
 
