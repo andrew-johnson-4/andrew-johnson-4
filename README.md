@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Once a bug gets documented, then it becomes a feature.
+> Elliptic curves are neat-O!
 
 ### [LSTS Examples & Documentation](https://andrew-johnson-4.github.io/lsts-language-reference/)
 
