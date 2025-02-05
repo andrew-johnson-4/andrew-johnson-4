@@ -1,8 +1,6 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> Great math doesn't have to be hard, it just needs to be relevant.
->
-> Base 10 is great math, and most people understand that.
+> y^2 = x^3 + ax + b
 
 ### [LSTS Examples & Documentation](https://andrew-johnson-4.github.io/lsts-language-reference/)
 
