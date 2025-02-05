@@ -1,6 +1,6 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> y^2 = x^3 + ax + b
+> $$ y^2 = x^3 + ax + b $$
 
 ### [LSTS Examples & Documentation](https://andrew-johnson-4.github.io/lsts-language-reference/)
 
