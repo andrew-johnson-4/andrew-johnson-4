@@ -12,11 +12,9 @@
 
 ### Work-Order Priorities
 
-Now having completed new feature capacity to handle complex data structures like Umbra Strings,
-the compiler is long overdue for some housekeeping.
-The feature set will therefore be frozen for a while to spend some time on compiler internals.
-* breaking compiler into independent compilation units with unit tests
-* improving performance with high-level and low-level optimizations
+Having completed about 50% of housekeeping, it is now time to return to feature development.
+This arc is focused on bringing the C frontend up to accepting all standards compliant ANSI C.
+This hopefully won't take a terribly long time.
 
 ### Upcoming Planned Features
 * rewrite compiler internals in LSTS (focus on how things should be, rather than how things are)
