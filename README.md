@@ -16,6 +16,10 @@ Having completed about 50% of housekeeping, it is now time to return to feature 
 This arc is focused on bringing the C frontend up to accepting all standards compliant ANSI C.
 This hopefully won't take a terribly long time.
 
+**TODO:**
+* 54 grammar rules to go to get parser working
+* C AST -> LM AST converter
+
 ### Upcoming Planned Features
 * rewrite compiler internals in LSTS (focus on how things should be, rather than how things are)
   * some of the internal APIs can be stabilized
