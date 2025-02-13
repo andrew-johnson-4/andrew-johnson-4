@@ -17,7 +17,7 @@ This arc is focused on bringing the C frontend up to accepting all standards com
 This hopefully won't take a terribly long time.
 
 **TODO:**
-* 23 grammar rules to go to get parser working
+* 19 grammar rules to go to get parser working
 * C AST -> LM AST converter
 
 ### Upcoming Planned Features
