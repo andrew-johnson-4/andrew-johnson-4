@@ -19,6 +19,7 @@ This hopefully won't take a terribly long time.
 **TODO:**
 * 0 grammar rules to go to get parser working
 * C AST -> LM AST converter
+* stable C -> LM -> C loop (see help wanted: https://github.com/andrew-johnson-4/lambda-mountain/issues/1291)
 
 ### Upcoming Planned Features
 * rewrite compiler internals in LSTS (focus on how things should be, rather than how things are)
