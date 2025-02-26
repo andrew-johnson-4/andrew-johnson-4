@@ -18,7 +18,7 @@ This hopefully won't take a terribly long time.
 
 **TODO:**
 * 0 grammar rules to go to get parser working
-* C AST -> LM AST converter
+* C AST -> LM AST converter (1 / n end-to-end tests passing)
 * stable C -> LM -> C loop (see help wanted: https://github.com/andrew-johnson-4/lambda-mountain/issues/1291)
 
 ### Upcoming Planned Features
