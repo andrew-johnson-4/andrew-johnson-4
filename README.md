@@ -2,7 +2,7 @@
 
 > $$ y^2 = x^3 + ax + b $$
 >
-> I prefer clay over pottery.
+> $$I \space prefer \space clay \space over \space pottery.$$
 
 ### [LSTS Examples & Documentation](https://andrew-johnson-4.github.io/lsts-language-reference/)
 
