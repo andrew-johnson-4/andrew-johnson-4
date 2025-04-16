@@ -16,12 +16,6 @@ Having completed about 50% of housekeeping, it is now time to return to feature 
 This arc is focused on bringing the C frontend up to accepting all standards compliant ANSI C.
 This hopefully won't take a terribly long time.
 
-**TODO:**
-* 0 grammar rules to go to get parser working
-* C AST -> LM AST converter
-   * 3 / ~50 end-to-end tests passing
-   * see help wanted: https://github.com/andrew-johnson-4/lambda-mountain/issues/1291
-
 ### Upcoming Planned Features
 * rewrite compiler internals in LSTS (focus on how things should be, rather than how things are)
   * some of the internal APIs can be stabilized
