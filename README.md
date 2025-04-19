@@ -17,7 +17,7 @@ This arc is focused on bringing the C frontend up to accepting all standards com
 This hopefully won't take a terribly long time.
 
 ### Upcoming Planned Features
-* remove LM code from compiler and platform libraries (13386 total lines)
+* migrate LM code to LSTS in compiler and platform libraries (13386 total lines)
 * rewrite compiler internals in LSTS (focus on how things should be, rather than how things are)
   * some of the internal APIs can be stabilized
 * Language Standard v1.0
