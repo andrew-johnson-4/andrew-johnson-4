@@ -15,9 +15,10 @@
 
 ### Work-Order Priorities
 
-Having completed about 50% of housekeeping, it is now time to return to feature development.
-This arc is focused on bringing the C frontend up to accepting all standards compliant ANSI C.
-This hopefully won't take a terribly long time.
+* C Frontend to be mostly standards compliant + some common C extensions
+* LSTS frontend to feel like a fully formed language
+* remove remaining LM code from compiler and libraries
+   * this completes the second pass of development, meaning everything has been looked at at least twice
 
 ### Upcoming Planned Features
 * migrate LM code to LSTS in compiler and platform libraries (13386 total lines)
