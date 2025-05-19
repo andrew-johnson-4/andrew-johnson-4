@@ -21,15 +21,6 @@
    * this completes the second pass of development, meaning everything has been looked at at least twice
 
 ### Upcoming Planned Features
-* migrate LM code to LSTS in compiler and platform libraries (13386 total lines)
-   * 946 lines from the LM frontend itself
-   * 2005 from LM Core
-   * 1979 from C Backend
-   * 1533 from Platform libraries
-   * 1244 from tests
-   * the remainder is already dead code
-* rewrite compiler internals in LSTS (focus on how things should be, rather than how things are)
-  * some of the internal APIs can be stabilized
 * Language Standard v1.0
 * Linear Garbage Collection
    * this is a library, not a core feature (it just depends on linear/phi-types with del hooks)
