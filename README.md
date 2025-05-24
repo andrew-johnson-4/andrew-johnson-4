@@ -7,11 +7,8 @@
 ### 2024 Roadmap (Working towards a verified kernel language)
 
 * ✓ [1.0.0 Bootstrap Compiler](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.0.0) 🥳🎉🎁
-* ✓ [1.20.0 Phi Types](https://github.com/andrew-johnson-4/lambda-mountain/releases/tag/1.20.0)
 * ✓ [1.21.0 Core Type System Revamp](https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain/releases/tag/1.21.0)
-   * linear time unification
-   * numerical pyramid through implication hierarchy
-   * interface types
+* ✓ [1.22.0 Type-Directed Macros](https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain/releases/tag/1.22.0)
 
 ### Work-Order Priorities
 
