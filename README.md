@@ -23,3 +23,6 @@
    * this is a library, not a core feature (it just depends on linear/phi-types with del hooks)
 * Representation Selection for Closures with auto GC
 
+### Product Oriented Goals
+* Turn LM into a decent ["yak herder"](https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain/wiki/Unopinionated-Philosophy#yak-herding-not-yak-shaving) for C programming
+   * the goal here is for people to interact meaningfully with C codebases without actually having to touch C
