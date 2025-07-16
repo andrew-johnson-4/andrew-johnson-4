@@ -14,8 +14,6 @@
 
 * C Frontend to be mostly standards compliant + some common C extensions
 * LSTS frontend to feel like a fully formed language
-* remove remaining LM code from compiler and libraries
-   * this completes the second pass of development, meaning everything has been looked at at least twice
 
 ### Upcoming Planned Features
 * Language Standard v1.0
