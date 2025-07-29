@@ -19,7 +19,7 @@
    * typechecking (full soundness proofs) with some notable exceptions that are theoretically unavoidable
       * template divergence
       * principle of nominal trust
-   * good error messages
+   * good error messages for all kinds of unsound programs
    * FAST code and compilation speeds (sub 1s self-compilation on Github task runners)
 
 ### Upcoming Planned Features
