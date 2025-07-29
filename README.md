@@ -16,7 +16,9 @@
 * LSTS to feel like a stable language
    * LSTS has lots of cool features (mission accomplished)
    * now it just needs to soundly and efficiently compile stuff
-   * typechecking (full soundness proofs) with some notable exceptions that are theoretically unavoidable (template divergence, principle of nominal trust)
+   * typechecking (full soundness proofs) with some notable exceptions that are theoretically unavoidable
+      * template divergence
+      * principle of nominal trust
    * good error messages
    * FAST code and compilation speeds (sub 1s self-compilation on Github task runners)
 
