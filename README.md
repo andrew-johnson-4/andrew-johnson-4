@@ -21,6 +21,11 @@
       * principle of nominal trust
    * good error messages for all kinds of unsound programs
    * FAST code and compilation speeds (sub 1s self-compilation on Github task runners)
+   * standard library makeover
+      * linear typesafe pointer management
+      * no memory leaks
+      * some generics to avoid over-specialization
+      * benchmarks vs C++, Rust, ML
 
 ### Upcoming Planned Features
 * Language Standard v1.0
