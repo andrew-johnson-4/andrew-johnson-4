@@ -23,7 +23,7 @@
    * FAST code and compilation speeds (sub 1s self-compilation on Github task runners)
    * standard library makeover
       * linear typesafe pointer management
-      * no memory leaks
+      * no memory leaks / implicit reference-counted GC
       * some generics to avoid over-specialization
       * benchmarks vs C++, Rust, ML
 
