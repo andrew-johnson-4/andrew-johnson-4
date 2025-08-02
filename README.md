@@ -17,7 +17,7 @@
    * LSTS has lots of cool features (mission accomplished)
    * now it just needs to soundly and efficiently compile stuff
    * typechecking (full soundness proofs) with some notable exceptions that are theoretically unavoidable
-      * template divergence
+      * template divergence (sometimes we can catch this, but in general it is undecidable)
       * principle of nominal trust
    * good error messages for all kinds of unsound programs
    * FAST code and compilation speeds (sub 1s self-compilation on Github task runners)
