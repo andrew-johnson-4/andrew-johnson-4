@@ -2,7 +2,7 @@
 
 > $$ y^2 = x^3 + ax + b $$
 
-### [LSTS Examples & Documentation](https://andrew-johnson-4.github.io/lsts-language-reference/)
+### [LSTS Examples & Documentation](https://lambda-mountain-compiler-backend.github.io/lsts-language-reference/)
 
 ### 2025 Roadmap (Working towards a verified kernel language)
 
