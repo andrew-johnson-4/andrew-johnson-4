@@ -12,6 +12,7 @@
 
 ### Work-Order Priorities
 
+* FAST Memory-Efficient Compiler (hopefully by the end of 2025-ish)
 * C Frontend to be mostly standards compliant + some common C extensions
 * LSTS to feel like a stable language
    * LSTS has lots of cool features (mission accomplished)
