@@ -1,6 +1,9 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
 > $$ y^2 = x^3 + ax + b $$
+>
+> Practical men who believe themselves to be quite exempt from any intellectual influence, are usually the slaves of some defunct economist.
+> ― John Maynard Keynes
 
 ### [LSTS Examples & Documentation](https://lambda-mountain-compiler-backend.github.io/lsts-language-reference/)
 
