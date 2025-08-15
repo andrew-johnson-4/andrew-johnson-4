@@ -2,8 +2,7 @@
 
 > $$ y^2 = x^3 + ax + b $$
 >
-> Practical men who believe themselves to be quite exempt from any intellectual influence, are usually the slaves of some defunct economist.
-> ― John Maynard Keynes
+> When a program has nothing surprising to say, it should say nothing. — Rule of Silence
 
 ### [LSTS Examples & Documentation](https://lambda-mountain-compiler-backend.github.io/lsts-language-reference/)
 
