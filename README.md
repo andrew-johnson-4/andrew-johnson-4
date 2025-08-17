@@ -35,6 +35,7 @@
 * Linear Garbage Collection
    * this is a library, not a core feature (it just depends on linear/phi-types with del hooks)
 * Representation Selection for Closures with auto GC
+   * oddly enough, this is also a library, not a hardcoded compiler feature
 
 ### Product Oriented Goals
 * Turn LM into a decent ["yak herder"](https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain/wiki/Unopinionated-Philosophy#yak-herding-not-yak-shaving) for C programming
