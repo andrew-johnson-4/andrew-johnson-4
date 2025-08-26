@@ -2,7 +2,7 @@
 
 > $$ y^2 = x^3 + ax + b $$
 >
-> When a program has nothing surprising to say, it should say nothing. — Rule of Silence
+> <div align="center">When a program has nothing surprising to say, it should say nothing. — Rule of Silence</div>
 
 ### [LSTS Examples & Documentation](https://lambda-mountain-compiler-backend.github.io/lsts-language-reference/)
 
