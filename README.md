@@ -8,9 +8,9 @@
 
 ### 2025 Roadmap (Working towards a verified kernel language)
 
-* ✓ [1.21.0 Core Type System Revamp](https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain/releases/tag/1.21.0)
 * ✓ [1.22.0 Type-Directed Macros](https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain/releases/tag/1.22.0)
 * ✓ [1.23.0 Compiler 100% Written in LSTS](https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain/releases/tag/1.23.0)
+* ✓ [1.24.0 Garbage Collection](https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain/releases/tag/1.24.0)
 
 ### Work-Order Priorities
 
