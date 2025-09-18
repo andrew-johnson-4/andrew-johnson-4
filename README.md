@@ -8,6 +8,11 @@
 
 ### 2025 Roadmap (Working towards a verified kernel language)
 
+If you are considering trying to learn LSTS, please wait until the V3 compiler and v1.0 language standard comes on line.
+Hopefully this will happen late 2025-early 2026.
+
+
+
 * ✓ [1.22.0 Type-Directed Macros](https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain/releases/tag/1.22.0)
 * ✓ [1.23.0 Compiler 100% Written in LSTS](https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain/releases/tag/1.23.0)
 * ✓ [1.24.0 Garbage Collection](https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain/releases/tag/1.24.0)
