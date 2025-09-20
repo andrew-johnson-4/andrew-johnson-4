@@ -33,8 +33,11 @@
    * LSTS has lots of cool features (mission accomplished)
    * now it just needs to soundly and efficiently compile stuff
    * typechecking (full soundness proofs) with some notable exceptions that are theoretically unavoidable
-      * template divergence (sometimes we can catch this, but in general it is undecidable)
+      * template divergence
+         * sometimes we can catch this, but in general it is undecidable
       * principle of nominal trust
+         * axioms can be frozen, but they can't be removed
+         * all good theorem provers have this problem if they allow new axioms to be declared
    * good error messages for all kinds of unsound programs
    * FAST code and compilation speeds (sub 1s self-compilation on Github task runners)
    * standard library makeover
@@ -45,8 +48,6 @@
 
 ### Upcoming Planned Features
 * Language Standard v1.0
-* Linear Garbage Collection
-   * this is a library, not a core feature (it just depends on linear/phi-types with del hooks)
 * Representation Selection for Closures with auto GC
    * oddly enough, this is also a library, not a hardcoded compiler feature
 
