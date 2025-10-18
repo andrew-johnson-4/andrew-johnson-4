@@ -48,12 +48,20 @@
       * no memory leaks / implicit reference-counted GC
       * some generics to avoid over-specialization
       * benchmarks vs C++, Rust, ML
-
+* [cold-start script](https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain/issues/1821) for collaborative editing LSTS with AI
+  
 ### Upcoming Planned Features
 * Language Standard v1.0
+* Full C Support
+* Cold-start script so that anyone unfamiliar with LSTS can use an effectively pretrained AI to start collaboratively "vibe coding" in LSTS
+   * LSTS (and theorem-proving specialized languages in general) are particularly well-suited to work with AI
+   * the AI can "fail and learn" faster
+   * the programmer can "oops" more
+   * etc.
+   * the development trajectories could then hopefully be more high-level, objective-oriented, product-oriented
 * Representation Selection for Closures with auto GC
    * oddly enough, this is also a library, not a hardcoded compiler feature
-
+      
 ### Product Oriented Goals
 * Turn LM into a decent ["yak herder"](https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain/wiki/Unopinionated-Philosophy#yak-herding-not-yak-shaving) for C programming
    * the goal here is for people to interact meaningfully with C codebases without actually having to touch C
