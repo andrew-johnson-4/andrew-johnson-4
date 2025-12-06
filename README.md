@@ -63,7 +63,7 @@
    * oddly enough, this is also a library, not a hardcoded compiler feature
 * Fix C backend to be a true assembler
    * currently there is some hard-coded logic that is technically a "compiler" backend
-   * we need to just expose all of these features to code to return to being a true assembler
+   * we need to just expose all of these features directly to return to being a true assembler
    * these are some pretty fun features like uniqueness types etc.
       
 ### Product Oriented Goals
