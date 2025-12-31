@@ -15,7 +15,7 @@
   <p>
     <img align="left" height="100" src="https://github.com/andrew-johnson-4/andrew-johnson-4/blob/main/07723b62-1f56-4e7f-97d0-98423669a1da.png?raw=true"/>
     <span>If you are considering trying to learn LSTS, please wait until the V3 compiler and v1.0 language standard comes on line.
-    V1.0 is the big goal for 2026.</span>
+    v1.0 is the big goal for 2026.</span>
   </p>
   <br/>
   <br/>
