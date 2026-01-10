@@ -67,5 +67,7 @@
    * these are some pretty fun features like uniqueness types etc.
       
 ### Product Oriented Goals
-* Turn LM into a decent ["yak herder"](https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain/wiki/Unopinionated-Philosophy#yak-herding-not-yak-shaving) for C programming
-   * the goal here is for people to interact meaningfully with C codebases without actually having to touch C
+* [probably.lm](https://github.com/andrew-johnson-4/probably.lm) Rational programming library
+   * Simply put this allows neural nets and traditional code objects to integrate naturally
+   * You don't need to understand math above boolean logic to program
+   * Active learning if we can get performance good enough
