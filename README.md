@@ -72,3 +72,4 @@
    * You don't need to understand math above boolean logic to program
    * Active learning if we can get performance good enough
    * Practically this gives infinitely more control over learning and inference with a neural model than a traditional model pipeline
+   * Debugging models looks less like abstract geometry and more like traditional coded program flow
