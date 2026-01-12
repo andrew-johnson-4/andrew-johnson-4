@@ -6,7 +6,7 @@
 > <br>
 > <div align="center">Mountains cannot be surmounted except by winding paths. — Johann Wolfgang von Goethe</div>
 
-### Tinker-worthy Projects:
+### Tinker-worthy Projects
 * [LM/LSTS: A curious programming language](https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain)
 
 ### Ideas Not-yet Fully Formed
