@@ -6,3 +6,9 @@
 > <br>
 > <div align="center">Mountains cannot be surmounted except by winding paths. — Johann Wolfgang von Goethe</div>
 
+### Tinker-worthy Projects:
+* [https://github.com/Lambda-Mountain-Compiler-Backend/lambda-mountain](A curious programming language)
+
+### Ideas Not-yet Fully Formed
+* [https://github.com/andrew-johnson-4/probably.lm] Rational Programming = natural integration of neural net programming and traditional programming
+
