@@ -5,7 +5,7 @@
 > <div align="center">When a program has nothing surprising to say, it should say nothing. — Rule of Silence</div>
 > <br>
 > <div align="center">The subconscious mind is a garden. — Émile Coué</div>
->
+> <br>
 > <div align="center">We shape our buildings; thereafter they shape us. — Winston Churchill</div>
 
 ### Tinker-worthy Projects
