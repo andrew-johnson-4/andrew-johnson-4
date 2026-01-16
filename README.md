@@ -1,7 +1,5 @@
 ## Hi, I'm Andrew Johnson ![](https://komarev.com/ghpvc/?username=andrew-johnson-4)
 
-> <div align="center">The subconscious mind is a garden. — Émile Coué</div>
-> <br>
 > <div align="center">We shape our buildings; thereafter they shape us. — Winston Churchill</div>
 
 ### Tinker-worthy Projects
